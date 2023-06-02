@@ -1,0 +1,18 @@
+{
+    "uses": [
+        "rain",
+        "sunlight",
+        "protection"
+    ],
+    "color": [
+        "black"
+    ],
+    "title": "Umbrella",
+    "feature": [
+        "portable",
+        "simple"
+    ],
+    "material": [
+        "iron"
+    ]
+}
