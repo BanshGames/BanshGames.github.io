@@ -1,0 +1,15 @@
+{
+    "title": "Earing",
+    "uses": [
+        "decoration",
+        "fashion"
+    ],
+    "feature": [
+        "simple",
+        "found in pair"
+    ],
+    "material": [
+        "iron",
+        "synthetic"
+    ]
+}

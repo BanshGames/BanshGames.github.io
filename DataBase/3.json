@@ -1,0 +1,15 @@
+{
+    "title": "Mango",
+    "uses": [
+        "food"
+    ],
+    "color": [
+        "yellow"
+    ],
+    "feature": [
+        "sweet taste"
+    ],
+    "material": [
+        "organic"
+    ]
+}
