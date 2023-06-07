@@ -1,15 +1,27 @@
 {
     "title": "Mango",
-    "uses": [
+    "use": [
         "food"
     ],
     "color": [
         "yellow"
     ],
     "feature": [
-        "sweet taste"
+        "sweet taste",
+        "vitamin C",
+        "india nation fruit"
     ],
     "material": [
         "organic"
+    ],
+    "location": [
+        "eastern India",
+        "Bangladesh",
+        "Andaman Islands"
+    ],
+    "part": [
+        "seed",
+        "pulm",
+        "skin"
     ]
 }

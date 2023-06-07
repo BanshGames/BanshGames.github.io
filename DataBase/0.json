@@ -13,6 +13,13 @@
         "simple"
     ],
     "material": [
-        "iron"
+        "iron pole"
+    ],
+    "relatives": [
+        "parasol",
+        "sunshade"
+    ],
+    "origin": [
+        "2450 BC"
     ]
 }

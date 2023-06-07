@@ -1,13 +1,25 @@
 {
     "title": "Zebra",
     "color": [
-        "black and white"
+        "black",
+        "white"
     ],
     "feature": [
         "strip texture",
-        "mix of two species"
+        "mix of two species",
+        "living",
+        "animal"
     ],
     "geolocation": [
-        "medagascar"
+        "africa"
+    ],
+    "use": [
+        "food",
+        "loader"
+    ],
+    "measurment": [
+        "length:100–120 in",
+        "height:4–5 ft",
+        "weight:450kg"
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "title": "book",
+    "uses": [
+        "recording information"
+    ],
+    "relatives": [
+        "codex",
+        "scroll",
+        "menuscripts"
+    ],
+    "parts": [
+        "gutter",
+        "cover",
+        "Fore edge",
+        "Belly band",
+        "flap"
+    ],
+    "size": [
+        "15-30cm"
+    ],
+    "materials": [
+        "papyrus",
+        "parchment",
+        "vellum",
+        "paper"
+    ]
+}
