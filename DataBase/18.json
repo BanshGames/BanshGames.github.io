@@ -1,0 +1,23 @@
+{
+  "title": "Orangutan",
+  "color": ["reddish-brown", "dark brown"],
+  "feature": ["long arms", "shaggy fur", "prominent cheek pads"],
+  "geolocation": ["Borneo", "Sumatra"],
+  "use": ["ecosystem balance", "conservation"],
+  "measurement": ["height: 3-4 ft", "weight: 66-220 lb"],
+  "origin": ["Borneo", "Sumatra"],
+  "special_behavior": ["arboreal", "solitary or semi-solitary"],
+  "speed": ["slow-moving"],
+  "age": ["lifespan of 30-40 years in the wild"],
+  "communication": ["vocalizations", "gestures", "facial expressions"],
+  "conservation_status": ["critically endangered"],
+  "habitat": ["tropical rainforests"],
+  "diet": ["omnivorous", "fruits", "leaves", "insects"],
+  "predators": ["large birds of prey", "clouded leopards"],
+  "facts": [
+    "one of the closest relatives to humans",
+    "excellent climbers and skilled in tree-dwelling",
+    "show tool-use behavior",
+    "play a vital role in seed dispersal within forests"
+  ]
+}

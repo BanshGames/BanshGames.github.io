@@ -1,0 +1,28 @@
+{
+  "title": "Gray Wolf",
+  "color": ["gray", "brown", "black", "white"],
+  "feature": ["thick fur", "sharp teeth", "strong jaw"],
+  "geolocation": ["North America", "Eurasia"],
+  "use": ["ecosystem balance", "cultural significance"],
+  "measurement": [
+    "length: 4.5-6.5 ft",
+    "height: 2.5-3.5 ft",
+    "weight: 60-120 lb"
+  ],
+  "origin": ["North America", "Eurasia"],
+  "special_behavior": ["highly social", "pack animal"],
+  "speed": ["up to 35 mph"],
+  "lifespan": ["up to 13 years in the wild"],
+  "reproduction": ["mating pairs", "litters of 4-7 pups"],
+  "communication": ["howling", "body language", "scent marking"],
+  "conservation_status": ["least concern"],
+  "habitat": ["forests", "mountains", "tundra"],
+  "diet": ["carnivorous", "ungulates", "small mammals"],
+  "predators": ["humans (historically)"],
+  "facts": [
+    "highly adaptable and intelligent",
+    "excellent hunters and team players",
+    "keystone species with ecological impact",
+    "featured in numerous myths and legends"
+  ]
+}

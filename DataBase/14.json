@@ -1,0 +1,24 @@
+{
+  "title": "Polar Bear",
+  "color": ["white", "yellowish fur"],
+  "feature": ["large size", "thick fur", "webbed paws", "insulating blubber"],
+  "geolocation": ["Arctic"],
+  "use": ["apex predator", "ecosystem balance"],
+  "measurement": ["length: 7-9 ft", "height: 4-5 ft", "weight: 900-1,600 lb"],
+  "origin": ["Arctic"],
+  "special_behavior": ["excellent swimmers", "ice-dependent"],
+  "speed": ["up to 30 mph"],
+  "lifespan": ["up to 30 years in the wild"],
+  "reproduction": ["delayed implantation", "births in a snow den"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["vulnerable"],
+  "habitat": ["Arctic sea ice", "coastal areas"],
+  "diet": ["carnivorous", "seals", "fish"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "well-adapted to cold environments",
+    "thick blubber and fur provide insulation",
+    "excellent sense of smell for finding prey",
+    "spends much of its time on sea ice hunting seals"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Whale",
+  "color": ["varied"],
+  "feature": ["gigantic size", "aquatic mammal", "blubber for insulation"],
+  "geolocation": ["oceans"],
+  "use": ["ecosystem balance", "tourism", "scientific research"],
+  "measurement": [
+    "length: varies depending on species",
+    "weight: varies depending on species"
+  ],
+  "origin": ["oceans"],
+  "special_behavior": ["migratory", "breaching", "singing"],
+  "speed": ["varies depending on species"],
+  "lifespan": ["varies depending on species"],
+  "reproduction": ["viviparous (gives birth to live young)"],
+  "communication": ["vocalizations", "whale songs"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["oceans", "seas"],
+  "diet": ["filter feeder", "krill", "small fish"],
+  "predators": ["larger predatory marine animals"],
+  "migration": ["long-distance seasonal migrations"],
+  "vocalizations": ["complex songs and calls"],
+  "ecological_role": ["maintains marine food chains"],
+  "cultural_significance": ["symbolic in various cultures"],
+  "mythology": ["legendary creatures in folklore"]
+}

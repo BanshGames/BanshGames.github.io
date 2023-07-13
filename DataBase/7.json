@@ -1,0 +1,14 @@
+{
+  "title": "Tiger",
+  "color": ["orange", "black", "white"],
+  "feature": [
+    "striking fur patterns",
+    "sharp claws",
+    "powerful jaws",
+    "carnivorous",
+    "mammal"
+  ],
+  "geolocation": ["Asia"],
+  "use": ["wildlife conservation", "ecosystem balance"],
+  "measurement": ["length: 6–9 ft", "height: 3–3.5 ft", "weight: 200–675 kg"]
+}

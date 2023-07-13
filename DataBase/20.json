@@ -1,0 +1,22 @@
+{
+  "title": "Jellyfish",
+  "color": ["transparent", "various colors"],
+  "feature": ["gelatinous body", "tentacles", "stinging cells"],
+  "geolocation": ["oceans", "seas"],
+  "use": ["ecosystem balance"],
+  "measurement": ["bell diameter: varies depending on species"],
+  "origin": ["oceans", "seas"],
+  "special_behavior": ["free-floating", "stinging predators"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["no central nervous system"],
+  "conservation_status": ["not evaluated"],
+  "habitat": ["marine environments", "coastal areas"],
+  "diet": ["carnivorous", "plankton", "small fish"],
+  "predators": ["sea turtles", "some species of fish"],
+  "facts": [
+    "made up of more than 90% water",
+    "some species have bioluminescent abilities",
+    "range in size from small to several feet in diameter",
+    "can reproduce both sexually and asexually"
+  ]
+}

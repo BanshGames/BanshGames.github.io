@@ -1,0 +1,26 @@
+{
+  "title": "Tiger",
+  "color": ["orange", "black", "white"],
+  "feature": ["striking pattern", "carnivorous", "animal"],
+  "geolocation": ["Asia"],
+  "use": ["ecosystem balance", "conservation"],
+  "measurement": [
+    "length: varies depending on species",
+    "weight: varies depending on species"
+  ],
+  "origin": ["Asia"],
+  "special_behavior": ["solitary", "powerful hunter"],
+  "speed": ["up to 40 mph"],
+  "age": ["lifespan of 10-15 years in the wild"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["endangered"],
+  "habitat": ["forests", "grasslands", "swamps"],
+  "diet": ["carnivorous", "prey on ungulates"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "largest cat species in the world",
+    "distinctive coat patterns for camouflage",
+    "excellent swimmers",
+    "play a crucial role in maintaining ecosystem balance"
+  ]
+}

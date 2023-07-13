@@ -1,0 +1,36 @@
+{
+  "title": "Snake",
+  "color": ["varied", "patterned"],
+  "feature": ["slender body", "scaly skin", "no limbs", "forked tongue"],
+  "geolocation": ["worldwide"],
+  "use": ["ecosystem balance", "rodent control", "venomous snake antivenom"],
+  "measurement": [
+    "length: varies depending on species",
+    "weight: varies depending on species"
+  ],
+  "origin": ["worldwide"],
+  "special_behavior": ["cold-blooded", "predatory", "sensitive to vibrations"],
+  "speed": ["varies depending on species"],
+  "lifespan": ["varies depending on species"],
+  "reproduction": [
+    "oviparous (lays eggs)",
+    "ovoviviparous (gives birth to live young)"
+  ],
+  "communication": ["limited vocalizations", "uses body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": [
+    "varies depending on species",
+    "forests",
+    "grasslands",
+    "deserts",
+    "aquatic environments"
+  ],
+  "diet": ["carnivorous", "feeding on small animals"],
+  "predators": ["predatory birds", "larger mammals"],
+  "venom": ["venomous species exist"],
+  "defense_mechanisms": ["camouflage", "venomous bites", "warning displays"],
+  "movement": ["slithering", "undulating"],
+  "ecological_role": ["rodent population control", "prey for larger predators"],
+  "cultural_significance": ["symbolic meanings in different cultures"],
+  "mythology": ["depicted as both sacred and feared in mythology"]
+}
