@@ -1,0 +1,23 @@
+{
+  "title": "Pelican",
+  "color": ["various colors"],
+  "feature": ["birds", "long beak", "large throat pouch"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["aquatic", "diving", "group fishing"],
+  "speed": ["relatively slow flyers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["aquatic habitats", "coastal areas", "lakes"],
+  "diet": ["carnivorous", "fish", "crustaceans"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "birds with long beaks and large throat pouches for catching and storing prey",
+    "known for their exceptional diving abilities to catch fish",
+    "often seen in groups engaging in cooperative fishing techniques",
+    "inhabit diverse aquatic habitats worldwide, including coastal areas and lakes"
+  ]
+}

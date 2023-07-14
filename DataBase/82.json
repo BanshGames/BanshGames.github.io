@@ -1,0 +1,23 @@
+{
+  "title": "Panther",
+  "color": ["black"],
+  "feature": ["big cats", "sleek and agile", "camouflage"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["solitary", "ambush predators", "roaring vocalizations"],
+  "speed": ["fast runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["roaring vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["various habitats", "forests", "grasslands"],
+  "diet": ["carnivorous", "hunting large prey"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "big cats known for their sleek and agile bodies",
+    "adapted for stealthy movements and excellent camouflage",
+    "can be found in various habitats worldwide, including forests and grasslands",
+    "play important roles in regulating prey populations and maintaining ecosystem balance"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Platypus",
+  "color": ["dark brown", "light brown"],
+  "feature": ["mammals", "duck-billed", "venomous spurs"],
+  "geolocation": ["Eastern Australia", "Tasmania"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Eastern Australia", "Tasmania"],
+  "special_behavior": ["semiaquatic", "venomous spurs", "electroreception"],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["near threatened"],
+  "habitat": ["rivers", "lakes", "wetlands"],
+  "diet": ["carnivorous", "aquatic invertebrates", "small vertebrates"],
+  "predators": ["varies depending on region"],
+  "facts": [
+    "unique mammals known for their duck-billed appearance and venomous spurs",
+    "semiaquatic creatures that spend much of their time in water",
+    "use electroreception to detect prey in their environment",
+    "endemic to Eastern Australia and considered a national symbol"
+  ]
+}

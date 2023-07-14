@@ -1,0 +1,27 @@
+{
+  "title": "Camel",
+  "color": ["various colors"],
+  "feature": ["humped back", "long neck", "adapted to arid environments"],
+  "geolocation": ["Arabian Peninsula", "Asia", "Africa"],
+  "use": ["transportation", "milk", "meat"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Arabian Peninsula", "Asia", "Africa"],
+  "special_behavior": [
+    "desert adaptations",
+    "water storage",
+    "grunting vocalizations"
+  ],
+  "speed": ["relatively fast walkers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["least concern"],
+  "habitat": ["arid regions", "deserts"],
+  "diet": ["herbivorous", "grasses", "plants"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "large mammals known for their humped back and ability to survive in arid environments",
+    "adapted to store water and withstand extreme temperatures",
+    "valued for their transportation, milk, meat, and wool",
+    "found in desert regions across the Arabian Peninsula, Asia, and Africa"
+  ]
+}

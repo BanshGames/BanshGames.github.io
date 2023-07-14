@@ -1,0 +1,27 @@
+{
+  "title": "Donkey",
+  "color": ["gray", "brown"],
+  "feature": ["equids", "long ears", "strong sense of hearing"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["transportation", "work animals"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": [
+    "domesticated",
+    "surefootedness",
+    "braying vocalizations"
+  ],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["braying vocalizations", "body language"],
+  "conservation_status": ["not evaluated"],
+  "habitat": ["various habitats", "grasslands", "mountainous regions"],
+  "diet": ["herbivorous", "grasses", "plants"],
+  "predators": ["varies depending on region"],
+  "facts": [
+    "domesticated equids known for their long ears and surefootedness",
+    "strong sense of hearing and highly adaptable to different terrains",
+    "have been used as working animals and for transportation for centuries",
+    "found in various habitats worldwide, from grasslands to mountainous regions"
+  ]
+}

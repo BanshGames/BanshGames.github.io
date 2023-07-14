@@ -1,0 +1,27 @@
+{
+  "title": "Rhinoceros",
+  "color": ["varies depending on species"],
+  "feature": ["large mammals", "horn on the nose", "thick skin"],
+  "geolocation": ["Africa", "Asia"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Africa", "Asia"],
+  "special_behavior": [
+    "herbivorous",
+    "solitary or social",
+    "rumbling vocalizations"
+  ],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["critically endangered"],
+  "habitat": ["various habitats", "grasslands", "forests"],
+  "diet": ["herbivorous", "grasses", "leaves", "plants"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "large mammals known for their distinctive horns and thick skin",
+    "herbivorous grazers with unique feeding adaptations",
+    "face severe threats from poaching and habitat loss",
+    "play important roles in shaping and maintaining ecosystems"
+  ]
+}

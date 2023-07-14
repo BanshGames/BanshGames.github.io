@@ -1,0 +1,23 @@
+{
+  "title": "Rabbit",
+  "color": ["various colors"],
+  "feature": ["long ears", "hind legs", "soft fur"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["companion pets", "livestock"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["herbivorous", "burrowers", "thumping vocalizations"],
+  "speed": ["fast runners"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["various habitats", "burrows"],
+  "diet": ["herbivorous", "grasses", "leafy plants", "vegetables"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "small mammals known for their long ears and soft fur",
+    "popular pets and livestock animals",
+    "adapted for fast running and burrowing",
+    "breed prolifically and have short gestation periods"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Otter",
+  "color": ["various colors"],
+  "feature": ["carnivorous mammals", "streamlined bodies", "webbed feet"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": [
+    "semiaquatic",
+    "playful nature",
+    "whistling vocalizations"
+  ],
+  "speed": ["good swimmers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["aquatic habitats", "rivers", "coastal areas"],
+  "diet": ["carnivorous", "fish", "crustaceans", "small mammals"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "carnivorous mammals known for their streamlined bodies and webbed feet",
+    "semiaquatic animals that spend much of their time in water",
+    "exhibit playful behavior and engage in sliding and diving activities",
+    "found in various aquatic habitats worldwide, from rivers to coastal areas"
+  ]
+}

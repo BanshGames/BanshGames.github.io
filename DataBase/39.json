@@ -1,0 +1,23 @@
+{
+  "title": "Parrot",
+  "color": ["various colors"],
+  "feature": ["vibrant feathers", "strong beak", "climbing feet"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance", "companion pets"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["vocal mimics", "social", "intelligent"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["varies depending on species", "tropical forests", "savannas"],
+  "diet": ["varies depending on species", "fruits", "seeds", "nuts"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "colorful and intelligent birds known for their ability to mimic sounds",
+    "live in social groups and exhibit complex behaviors",
+    "some species have become popular companion pets",
+    "play important roles in seed dispersal in tropical forests"
+  ]
+}

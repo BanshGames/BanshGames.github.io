@@ -1,0 +1,27 @@
+{
+  "title": "Walrus",
+  "color": ["brown", "gray"],
+  "feature": ["large size", "tusks", "whiskers"],
+  "geolocation": ["Arctic regions"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Arctic regions"],
+  "special_behavior": [
+    "semi-aquatic",
+    "tusk displays",
+    "roaring vocalizations"
+  ],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["vulnerable", "endangered"],
+  "habitat": ["Arctic coastal areas", "pack ice"],
+  "diet": ["carnivorous", "clams", "mussels", "other invertebrates"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "large marine mammals known for their impressive tusks",
+    "semi-aquatic animals that spend time both on land and in water",
+    "communicate through a variety of vocalizations and body movements",
+    "face threats due to habitat loss and climate change"
+  ]
+}

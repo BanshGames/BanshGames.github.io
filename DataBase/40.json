@@ -1,0 +1,27 @@
+{
+  "title": "Pigeon",
+  "color": ["various colors"],
+  "feature": ["medium-sized", "rounded body", "adaptability"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["communication", "messenger pigeons"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": [
+    "highly adaptable",
+    "homing instinct",
+    "cooing vocalizations"
+  ],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["varies depending on species", "urban areas", "cliffs"],
+  "diet": ["omnivorous", "seeds", "grains", "insects"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "found in urban areas and natural habitats worldwide",
+    "known for their homing abilities and use in messaging",
+    "have been domesticated for thousands of years",
+    "play a role in seed dispersal and scavenging"
+  ]
+}

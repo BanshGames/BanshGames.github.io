@@ -1,0 +1,29 @@
+{
+  "title": "Turtle",
+  "color": ["various colors"],
+  "feature": ["hard protective shell", "flippers", "scaly skin"],
+  "geolocation": ["oceans", "seas", "freshwater"],
+  "use": ["ecosystem balance", "conservation"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["oceans", "seas", "freshwater"],
+  "special_behavior": ["long lifespan", "migration", "nesting behavior"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["limited communication abilities"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["oceans", "seas", "freshwater"],
+  "diet": [
+    "varies depending on species",
+    "plants",
+    "algae",
+    "insects",
+    "jellyfish"
+  ],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "ancient reptiles with protective shells",
+    "some species undertake long-distance migrations",
+    "females return to beaches to lay eggs",
+    "face numerous threats, including habitat loss and pollution"
+  ]
+}

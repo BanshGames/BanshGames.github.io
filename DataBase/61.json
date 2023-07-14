@@ -1,0 +1,27 @@
+{
+  "title": "Seal",
+  "color": ["various colors"],
+  "feature": ["aquatic mammals", "blubber", "flippers"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": [
+    "excellent swimmers",
+    "graceful movements",
+    "barking vocalizations"
+  ],
+  "speed": ["swift swimmers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["coastal areas", "ice floes"],
+  "diet": ["carnivorous", "fish", "crustaceans", "squid"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "aquatic mammals with streamlined bodies and flippers",
+    "adapted for swimming and diving in marine environments",
+    "rely on blubber for insulation and energy storage",
+    "play important roles in marine ecosystems and food webs"
+  ]
+}

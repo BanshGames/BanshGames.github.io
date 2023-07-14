@@ -1,0 +1,23 @@
+{
+  "title": "Sheep",
+  "color": ["various colors"],
+  "feature": ["wool", "hooves", "herbivorous"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["wool", "meat", "livestock"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["herd animals", "grazing", "bleating vocalizations"],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["farm settings", "grazing lands"],
+  "diet": ["herbivorous", "grasses", "hay"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "domesticated mammals prized for their wool",
+    "raised for meat, milk, and other products",
+    "form social groups within flocks",
+    "play important roles in agriculture and textile industries"
+  ]
+}

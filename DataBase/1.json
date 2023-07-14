@@ -1,16 +1,23 @@
 {
-    "title": "Earing",
-    "uses": [
-        "decoration",
-        "fashion",
-        "body modification"
-    ],
-    "feature": [
-        "simple",
-        "found in pair"
-    ],
-    "material": [
-        "iron",
-        "synthetic"
-    ]
+  "title": "Dog",
+  "color": ["various colors"],
+  "feature": ["domesticated", "canine", "loyal", "intelligent"],
+  "geolocation": ["worldwide"],
+  "use": ["companion", "working"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["worldwide"],
+  "special_behavior": ["social", "responsive to training"],
+  "speed": ["varies depending on breed"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["barking", "body language"],
+  "conservation_status": ["not applicable"],
+  "habitat": ["domesticated"],
+  "diet": ["omnivorous"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "one of the first domesticated animals",
+    "wide variety of breeds with different characteristics",
+    "excellent sense of smell and hearing",
+    "known for their strong bond with humans"
+  ]
 }

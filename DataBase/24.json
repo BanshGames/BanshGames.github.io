@@ -1,0 +1,27 @@
+{
+  "title": "Octopus",
+  "color": ["various colors"],
+  "feature": ["soft body", "eight arms", "camouflage abilities"],
+  "geolocation": ["oceans", "seas"],
+  "use": ["ecosystem balance", "tourism"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["oceans", "seas"],
+  "special_behavior": [
+    "highly intelligent",
+    "master of camouflage",
+    "jet propulsion"
+  ],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["color changes", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["oceans", "seas"],
+  "diet": ["carnivorous", "crabs", "shrimp", "small fish"],
+  "predators": ["sharks", "larger fish"],
+  "facts": [
+    "known for their intelligence and problem-solving abilities",
+    "can change color and texture to blend with their surroundings",
+    "have a unique ability to squeeze through small openings",
+    "exhibit a wide range of complex behaviors"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Meerkat",
+  "color": ["gray", "brown"],
+  "feature": ["small mammals", "alert posture", "burrowers"],
+  "geolocation": ["Southern Africa"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Southern Africa"],
+  "special_behavior": [
+    "social animals",
+    "alert sentinels",
+    "barking vocalizations"
+  ],
+  "speed": ["swift runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["least concern"],
+  "habitat": ["open grasslands", "desert regions"],
+  "diet": ["omnivorous", "insects", "small vertebrates", "plants"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "small mammals known for their alert posture and group behavior",
+    "live in complex burrow systems with multiple chambers",
+    "display sentinel behavior to watch for predators while others forage",
+    "found in the open grasslands and desert regions of Southern Africa"
+  ]
+}

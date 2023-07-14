@@ -1,14 +1,23 @@
 {
-  "title": "Tiger",
-  "color": ["orange", "black", "white"],
-  "feature": [
-    "striking fur patterns",
-    "sharp claws",
-    "powerful jaws",
-    "carnivorous",
-    "mammal"
-  ],
-  "geolocation": ["Asia"],
-  "use": ["wildlife conservation", "ecosystem balance"],
-  "measurement": ["length: 6–9 ft", "height: 3–3.5 ft", "weight: 200–675 kg"]
+  "title": "Monkey",
+  "color": ["various colors"],
+  "feature": ["arboreal", "tail", "grasping hands and feet"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["highly agile", "social", "tool use"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "facial expressions", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["varies depending on species", "forests", "jungles"],
+  "diet": ["omnivorous", "fruits", "insects", "leaves"],
+  "predators": ["varies depending on location and species"],
+  "facts": [
+    "wide variety of species with diverse behaviors",
+    "exhibit complex social structures",
+    "known for their agility and ability to climb",
+    "play an important role in seed dispersal"
+  ]
 }

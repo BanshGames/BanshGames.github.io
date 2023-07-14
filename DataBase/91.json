@@ -1,0 +1,23 @@
+{
+  "title": "Raccoon",
+  "color": ["gray", "brown"],
+  "feature": ["small mammals", "distinctive facial mask", "ringed tail"],
+  "geolocation": ["North America", "Central America"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["North America", "Central America"],
+  "special_behavior": ["nocturnal", "omnivorous", "chittering vocalizations"],
+  "speed": ["relatively fast climbers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["least concern"],
+  "habitat": ["various habitats", "forests", "urban areas"],
+  "diet": ["omnivorous", "fruits", "nuts", "insects", "small vertebrates"],
+  "predators": ["varies depending on region"],
+  "facts": [
+    "small mammals known for their distinctive facial mask and ringed tail",
+    "adapted to both woodland and urban environments",
+    "highly adaptable and opportunistic omnivores",
+    "play important roles in seed dispersal and insect control"
+  ]
+}

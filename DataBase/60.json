@@ -1,0 +1,27 @@
+{
+  "title": "Otter",
+  "color": ["various colors"],
+  "feature": ["semi-aquatic", "webbed paws", "dense fur"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": [
+    "excellent swimmers",
+    "playful behavior",
+    "chattering vocalizations"
+  ],
+  "speed": ["swift swimmers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["rivers", "lakes", "coastal areas"],
+  "diet": ["carnivorous", "fish", "crustaceans", "small mammals"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "semi-aquatic mammals known for their playful behavior",
+    "adapted for swimming with webbed paws and dense fur",
+    "hunt for fish and other aquatic prey",
+    "play important roles in maintaining healthy aquatic ecosystems"
+  ]
+}

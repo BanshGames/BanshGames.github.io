@@ -1,0 +1,27 @@
+{
+  "title": "Seahorse",
+  "color": ["various colors"],
+  "feature": ["unique body shape", "curled tail", "no scales"],
+  "geolocation": ["oceans", "seas"],
+  "use": ["ecosystem balance", "tourism"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["oceans", "seas"],
+  "special_behavior": [
+    "swimming upright",
+    "male pregnancy",
+    "camouflage abilities"
+  ],
+  "speed": ["slow-moving"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["body language", "color changes"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["oceans", "seas"],
+  "diet": ["carnivorous", "small crustaceans", "tiny fish"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "unique fish with upright swimming posture",
+    "males carry and give birth to offspring",
+    "excellent camouflaging abilities",
+    "play a role in coral reef ecosystems"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Bird",
+  "color": ["various colors"],
+  "feature": ["feathers", "beak", "wings"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance", "pollination"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["warm-blooded", "flight", "diverse songs and calls"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["songs", "calls", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["varies depending on species", "forests", "grasslands"],
+  "diet": ["varies depending on species", "seeds", "insects", "small animals"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "warm-blooded vertebrates with feathers and wings",
+    "diverse group with a wide range of sizes and behaviors",
+    "play important roles in pollination and seed dispersal",
+    "known for their ability to fly and produce melodious songs"
+  ]
+}

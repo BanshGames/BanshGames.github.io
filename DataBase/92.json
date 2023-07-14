@@ -1,0 +1,23 @@
+{
+  "title": "Porcupine",
+  "color": ["brown", "black"],
+  "feature": ["rodents", "quills", "sharp spines"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["nocturnal", "herbivorous", "rattling quills"],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "rattling quills"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["various habitats", "forests", "grasslands"],
+  "diet": ["herbivorous", "bark", "twigs", "plants"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "rodents known for their sharp spines and ability to shoot quills",
+    "defense mechanism where they rattle their quills as a warning",
+    "herbivorous animals that feed on a variety of plant materials",
+    "found in various habitats worldwide, including forests and grasslands"
+  ]
+}

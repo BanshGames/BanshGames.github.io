@@ -1,0 +1,23 @@
+{
+  "title": "Peacock",
+  "color": ["various colors"],
+  "feature": ["vibrant plumage", "long tail feathers", "display courtship"],
+  "geolocation": ["Indian subcontinent", "Southeast Asia"],
+  "use": ["ornamental", "tourism"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Indian subcontinent", "Southeast Asia"],
+  "special_behavior": ["elaborate courtship display", "vocal calls", "social"],
+  "speed": ["fast runners", "short flights"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["forests", "grasslands"],
+  "diet": ["omnivorous", "seeds", "insects", "small reptiles"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "known for their striking plumage and elaborate courtship display",
+    "males have long, colorful tail feathers",
+    "symbol of beauty, grace, and pride in many cultures",
+    "found in diverse habitats, from forests to open grasslands"
+  ]
+}

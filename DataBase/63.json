@@ -1,0 +1,27 @@
+{
+  "title": "Sloth",
+  "color": ["various colors"],
+  "feature": ["slow-moving", "claws", "arboreal"],
+  "geolocation": ["Central and South America"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Central and South America"],
+  "special_behavior": [
+    "slow metabolism",
+    "hanging from trees",
+    "low-energy lifestyle"
+  ],
+  "speed": ["very slow movers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["tropical rainforests", "canopy trees"],
+  "diet": ["herbivorous", "leaves", "twigs", "fruit"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "arboreal mammals known for their slow movements",
+    "adapted for a low-energy lifestyle with a slow metabolism",
+    "spend most of their time hanging upside down from trees",
+    "play important roles in rainforest ecosystems and nutrient cycling"
+  ]
+}

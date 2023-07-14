@@ -1,0 +1,23 @@
+{
+  "title": "Oyster",
+  "color": ["various colors"],
+  "feature": ["bivalve mollusks", "hard shells", "filter feeders"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["food"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["aquatic", "sessile", "filter feeding"],
+  "speed": ["immobile"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["chemical signals"],
+  "conservation_status": ["not evaluated"],
+  "habitat": ["aquatic habitats", "oceans", "estuaries"],
+  "diet": ["filter feeders", "plankton", "organic particles"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "bivalve mollusks with hard shells and a sessile lifestyle",
+    "found in various marine habitats worldwide, including oceans and estuaries",
+    "filter feeders that play a crucial role in improving water quality",
+    "highly valued as a culinary delicacy in many cultures"
+  ]
+}

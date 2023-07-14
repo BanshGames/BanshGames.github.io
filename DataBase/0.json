@@ -1,25 +1,9 @@
 {
-    "title": "Umbrella",
-    "uses": [
-        "rain",
-        "sunlight",
-        "protection"
-    ],
-    "color": [
-        "black"
-    ],
-    "feature": [
-        "portable",
-        "simple"
-    ],
-    "material": [
-        "iron pole"
-    ],
-    "relatives": [
-        "parasol",
-        "sunshade"
-    ],
-    "origin": [
-        "2450 BC"
-    ]
+  "title": "Umbrella",
+  "uses": ["rain", "sunlight", "protection"],
+  "color": ["black"],
+  "feature": ["portable", "simple"],
+  "material": ["iron pole"],
+  "relatives": ["parasol", "sunshade"],
+  "origin": ["2450 BC"]
 }

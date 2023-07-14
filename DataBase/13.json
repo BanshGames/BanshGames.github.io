@@ -1,29 +1,27 @@
 {
-  "title": "Giraffe",
-  "color": ["patchy patterns of orange, brown, and white"],
-  "feature": [
-    "long neck",
-    "long legs",
-    "distinctive coat patterns",
-    "ossicones"
+  "title": "Wolf",
+  "color": ["gray", "brown", "black", "white"],
+  "feature": ["keen senses", "sharp teeth", "strong pack behavior"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": [
+    "length: 4.5-6.5 ft",
+    "height: 2.5-3 ft",
+    "weight: 40-175 lb"
   ],
-  "geolocation": ["Africa"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["height: 14-18 ft", "weight: 1,600-3,000 kg"],
-  "origin": ["Africa"],
-  "special_behavior": ["tallest land animal", "browsing herbivore"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["social", "territorial", "howling communication"],
   "speed": ["up to 35 mph"],
-  "lifespan": ["up to 25 years in the wild"],
-  "reproduction": ["gestation period: 14-15 months", "single calf at birth"],
-  "communication": ["low-frequency vocalizations", "necking (combat)"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["savannahs", "woodlands"],
-  "diet": ["browsing herbivore", "acacia leaves", "other foliage"],
-  "predators": ["lions", "hyenas"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["varies depending on species", "forests", "grasslands"],
+  "diet": ["carnivorous", "primarily ungulates"],
+  "predators": ["few natural predators"],
   "facts": [
-    "longest neck of any animal, with 7 neck vertebrae",
-    "ossicones are bony protrusions on the head",
-    "excellent eyesight and a keen sense of smell",
-    "form loose social groups known as towers"
+    "highly adaptable and intelligent",
+    "form strong social bonds within packs",
+    "efficient hunters with excellent teamwork",
+    "important ecological role as apex predators"
   ]
 }

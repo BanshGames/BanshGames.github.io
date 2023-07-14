@@ -1,0 +1,23 @@
+{
+  "title": "Squid",
+  "color": ["various colors"],
+  "feature": ["cephalopods", "long bodies", "tentacles with suckers"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["food"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["aquatic", "active swimmers", "ink defense"],
+  "speed": ["fast swimmers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["visual displays", "chromatophores"],
+  "conservation_status": ["not evaluated"],
+  "habitat": ["aquatic habitats", "oceans"],
+  "diet": ["carnivorous", "small fish", "crustaceans", "squid"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "cephalopods with long bodies and powerful tentacles adorned with suckers",
+    "active swimmers known for their agility and speed",
+    "possess ink sacs for defense and the ability to change color",
+    "found in diverse marine habitats worldwide, from shallow waters to the deep sea"
+  ]
+}

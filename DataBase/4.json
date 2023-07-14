@@ -1,27 +1,23 @@
 {
-    "title": "book",
-    "uses": [
-        "recording information"
-    ],
-    "relatives": [
-        "codex",
-        "scroll",
-        "menuscripts"
-    ],
-    "parts": [
-        "gutter",
-        "cover",
-        "Fore edge",
-        "Belly band",
-        "flap"
-    ],
-    "size": [
-        "15-30cm"
-    ],
-    "materials": [
-        "papyrus",
-        "parchment",
-        "vellum",
-        "paper"
-    ]
+  "title": "Lion",
+  "color": ["golden", "brown"],
+  "feature": ["mane", "powerful build", "carnivorous"],
+  "geolocation": ["Africa", "Asia"],
+  "use": ["top predator", "ecosystem balance"],
+  "measurement": ["length: 6-8 ft", "height: 3.5-4 ft", "weight: 265-420 lb"],
+  "origin": ["Africa", "Asia"],
+  "special_behavior": ["social", "roaring communication"],
+  "speed": ["up to 50 mph"],
+  "age": ["lifespan of 10-14 years in the wild"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["vulnerable"],
+  "habitat": ["savannahs", "grasslands"],
+  "diet": ["carnivorous", "prey on herbivores"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "known as the king of the jungle",
+    "live in prides with a dominant male",
+    "females are the primary hunters",
+    "play a crucial role in maintaining ecosystem balance"
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "title": "Cow",
+  "color": ["various colors"],
+  "feature": ["large size", "four-chambered stomach", "horns (in some breeds)"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["food", "milk", "leather"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["herd animals", "chewing cud", "mooing vocalizations"],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["farm settings", "grazing lands"],
+  "diet": ["herbivorous", "grasses", "hay", "silage"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "domesticated herbivorous mammals",
+    "raised for meat, milk, and other products",
+    "form social groups within herds",
+    "chew cud as part of their unique digestive system"
+  ]
+}

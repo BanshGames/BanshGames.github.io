@@ -1,0 +1,27 @@
+{
+  "title": "Guinea Pig",
+  "color": ["various colors"],
+  "feature": ["rounded body", "short legs", "no tail"],
+  "geolocation": ["originated from South America"],
+  "use": ["companion pets", "scientific research"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["originated from South America"],
+  "special_behavior": [
+    "social animals",
+    "vocal communication",
+    "popcorning behavior"
+  ],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["domesticated settings", "cages"],
+  "diet": ["herbivorous", "hay", "vegetables", "pellets"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "small domesticated rodents originating from South America",
+    "docile and social animals popular as pets",
+    "known for their unique vocalizations and popcorning behavior",
+    "used in scientific research for various purposes"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Caiman",
+  "color": ["dark green", "gray"],
+  "feature": ["reptiles", "scaly skin", "long snout"],
+  "geolocation": ["Central and South America"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Central and South America"],
+  "special_behavior": ["aquatic", "ambush predators", "hissing vocalizations"],
+  "speed": ["relatively fast swimmers"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["hissing vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["rivers", "wetlands", "swamps"],
+  "diet": ["carnivorous", "fish", "amphibians", "small mammals"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "reptiles closely related to alligators and crocodiles",
+    "adapted for an aquatic lifestyle with a long snout and scaly skin",
+    "ambush predators that lurk in rivers and wetland habitats",
+    "play important roles in controlling fish and amphibian populations"
+  ]
+}

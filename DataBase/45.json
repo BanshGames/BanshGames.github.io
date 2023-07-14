@@ -1,0 +1,23 @@
+{
+  "title": "Chicken",
+  "color": ["various colors"],
+  "feature": ["domesticated bird", "feathers", "beak"],
+  "geolocation": ["originated from wild jungle fowl"],
+  "use": ["food", "eggs"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["originated from wild jungle fowl"],
+  "special_behavior": ["social hierarchy", "scratching for food", "brooding"],
+  "speed": ["limited flight abilities"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["farm settings", "backyards"],
+  "diet": ["omnivorous", "seeds", "insects", "vegetable scraps"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "one of the most widely domesticated birds",
+    "raised for their meat and eggs",
+    "display a social hierarchy within flocks",
+    "have been selectively bred into various breeds for different purposes"
+  ]
+}

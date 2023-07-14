@@ -1,0 +1,23 @@
+{
+  "title": "Gazelle",
+  "color": ["various colors"],
+  "feature": ["antelopes", "slender bodies", "graceful movements"],
+  "geolocation": ["Africa", "Asia"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Africa", "Asia"],
+  "special_behavior": ["herbivorous", "swift runners", "pronking behavior"],
+  "speed": ["fast runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["various habitats", "grasslands", "savannas"],
+  "diet": ["herbivorous", "grasses", "leaves", "shoots"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "antelopes known for their slender bodies and graceful movements",
+    "adapted for speed and agility to escape from predators",
+    "perform a behavior called pronking, characterized by leaping and bouncing",
+    "found in a range of habitats, including grasslands and savannas"
+  ]
+}

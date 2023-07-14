@@ -1,0 +1,23 @@
+{
+  "title": "Ostrich",
+  "color": ["gray", "brown"],
+  "feature": ["birds", "long neck", "strong legs"],
+  "geolocation": ["Africa"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Africa"],
+  "special_behavior": ["flightless", "fast runners", "booming vocalizations"],
+  "speed": ["fast runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["least concern"],
+  "habitat": ["various habitats", "grasslands", "savannas"],
+  "diet": ["omnivorous", "plants", "insects", "small animals"],
+  "predators": ["varies depending on region"],
+  "facts": [
+    "flightless birds known for their long necks and powerful legs",
+    "considered the largest living bird species",
+    "adapted for running at high speeds and have a distinctive booming call",
+    "native to Africa and inhabit various habitats, including grasslands and savannas"
+  ]
+}

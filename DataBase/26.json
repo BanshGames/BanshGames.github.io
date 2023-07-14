@@ -1,0 +1,23 @@
+{
+  "title": "Lobster",
+  "color": ["various colors"],
+  "feature": ["hard exoskeleton", "claws", "long antennae"],
+  "geolocation": ["oceans", "seas"],
+  "use": ["culinary"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["oceans", "seas"],
+  "special_behavior": ["bottom-dweller", "regeneration of lost limbs"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["chemical signals", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["oceans", "seas"],
+  "diet": ["omnivorous", "algae", "small organisms", "detritus"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "crustaceans highly valued for their meat",
+    "have a unique ability to regenerate lost limbs",
+    "play a role in marine food chains and ecosystems",
+    "vary in size, with some species growing to impressive lengths"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Swan",
+  "color": ["white", "various colors"],
+  "feature": ["graceful appearance", "long neck", "webbed feet"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ornamental", "tourism"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["monogamous pairs", "graceful swimming", "vocal calls"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["lakes", "ponds", "rivers"],
+  "diet": ["herbivorous", "aquatic plants", "grains"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "known for their elegance and beauty",
+    "form monogamous pairs that mate for life",
+    "exhibit graceful swimming and courtship displays",
+    "symbolize love, loyalty, and fidelity in many cultures"
+  ]
+}

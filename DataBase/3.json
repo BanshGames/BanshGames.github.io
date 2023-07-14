@@ -1,27 +1,23 @@
 {
-    "title": "Mango",
-    "use": [
-        "food"
-    ],
-    "color": [
-        "yellow"
-    ],
-    "feature": [
-        "sweet taste",
-        "vitamin C",
-        "india nation fruit"
-    ],
-    "material": [
-        "organic"
-    ],
-    "location": [
-        "eastern India",
-        "Bangladesh",
-        "Andaman Islands"
-    ],
-    "part": [
-        "seed",
-        "pulm",
-        "skin"
-    ]
+  "title": "Elephant",
+  "color": ["gray", "brown"],
+  "feature": ["giant size", "tusks", "trunk", "thick skin"],
+  "geolocation": ["Africa", "Asia"],
+  "use": ["ecosystem balance", "tourism", "cultural significance"],
+  "measurement": ["height: 8-13 ft", "weight: 5,000-14,000 kg"],
+  "origin": ["Africa", "Asia"],
+  "special_behavior": ["herd animal", "excellent memory"],
+  "speed": ["up to 40 km/h"],
+  "age": ["lifespan of 70 years"],
+  "communication": ["trumpeting", "rumbling vibrations"],
+  "conservation_status": ["vulnerable"],
+  "habitat": ["forests", "savannahs"],
+  "diet": ["herbivorous", "grasses", "leaves", "bark"],
+  "predators": ["humans (poaching)"],
+  "facts": [
+    "largest land animal",
+    "highly intelligent",
+    "social animals with complex relationships",
+    "play an important role in shaping their environment"
+  ]
 }

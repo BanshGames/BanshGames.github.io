@@ -1,0 +1,23 @@
+{
+  "title": "Hamster",
+  "color": ["various colors"],
+  "feature": ["small size", "rounded body", "short tail"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["companion pets"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["nocturnal", "burrowers", "cheek pouches"],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["various habitats", "burrows", "cages"],
+  "diet": ["omnivorous", "seeds", "grains", "fruits", "vegetables"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "small rodents known for their compact size and adorable appearance",
+    "nocturnal creatures that exhibit burrowing behavior",
+    "store food in their cheek pouches for transport",
+    "popular as low-maintenance pets in many households"
+  ]
+}

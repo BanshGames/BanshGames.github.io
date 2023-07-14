@@ -1,0 +1,27 @@
+{
+  "title": "Shark",
+  "color": ["various colors"],
+  "feature": ["sleek body", "cartilaginous skeleton", "sharp teeth"],
+  "geolocation": ["oceans", "seas"],
+  "use": ["ecosystem balance", "tourism"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["oceans", "seas"],
+  "special_behavior": [
+    "apex predators",
+    "powerful swimmers",
+    "electroreception"
+  ],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["body language", "chemical signals"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["oceans", "seas"],
+  "diet": ["carnivorous", "fish", "seals", "marine mammals"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "one of the oldest and most successful predators on Earth",
+    "diverse species with different sizes and behaviors",
+    "play a crucial role in maintaining balance in marine ecosystems",
+    "continuously replace their teeth throughout their lifetime"
+  ]
+}

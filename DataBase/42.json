@@ -1,0 +1,23 @@
+{
+  "title": "Flamingo",
+  "color": ["pink", "red", "white"],
+  "feature": ["long legs", "curved neck", "webbed feet"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance", "tourism"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["filter feeders", "standing on one leg", "social"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["saltwater lakes", "lagoons"],
+  "diet": ["filter feeders", "plankton", "algae", "small invertebrates"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "known for their distinctive pink coloration",
+    "filter feeders that extract food from water",
+    "stand on one leg for long periods to conserve energy",
+    "form large, social colonies for breeding and feeding"
+  ]
+}

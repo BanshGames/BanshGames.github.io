@@ -1,28 +1,23 @@
 {
-  "title": "Bald Eagle",
-  "color": ["dark brown body", "white head and tail"],
-  "feature": [
-    "distinctive white feathers on head and tail",
-    "sharp beak",
-    "sharp talons"
-  ],
-  "geolocation": ["North America"],
-  "use": ["national symbol", "ecosystem balance"],
-  "measurement": ["wingspan: 6-7 ft", "weight: 6.5-14 lb"],
-  "origin": ["North America"],
-  "special_behavior": ["excellent eyesight", "strong flyer"],
-  "speed": ["up to 40-50 mph in level flight"],
-  "lifespan": ["up to 20-30 years in the wild"],
-  "reproduction": ["monogamous pairs", "large nests"],
-  "communication": ["vocalizations", "visual displays"],
-  "conservation_status": ["least concern"],
-  "habitat": ["near water bodies", "forests"],
-  "diet": ["carnivorous", "fish", "small mammals", "waterfowl"],
-  "predators": ["few natural predators"],
+  "title": "Cheetah",
+  "color": ["tan", "black spots"],
+  "feature": ["slender body", "distinctive black tear stripes"],
+  "geolocation": ["Africa", "Iran"],
+  "use": ["ecosystem balance"],
+  "measurement": ["length: 3.5-4.5 ft", "height: 2-3 ft", "weight: 75-140 lb"],
+  "origin": ["Africa", "Iran"],
+  "special_behavior": ["fastest land animal", "sprint hunting"],
+  "speed": ["up to 60-70 mph"],
+  "age": ["lifespan of 10-12 years in the wild"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["vulnerable"],
+  "habitat": ["open grasslands", "savannahs"],
+  "diet": ["carnivorous", "prey on small to medium-sized ungulates"],
+  "predators": ["lions", "hyenas"],
   "facts": [
-    "symbol of power and freedom",
-    "impressive hunting skills",
-    "builds large nests called eyries",
-    "one of the largest birds of prey in North America"
+    "known for their incredible speed and agility",
+    "unique hunting technique using bursts of speed",
+    "can accelerate from 0 to 60 mph in a few seconds",
+    "face various threats, including habitat loss and poaching"
   ]
 }

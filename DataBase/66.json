@@ -1,0 +1,27 @@
+{
+  "title": "Ostrich",
+  "color": ["brown", "gray"],
+  "feature": ["flightless birds", "long neck", "powerful legs"],
+  "geolocation": ["Africa"],
+  "use": ["food", "feathers"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Africa"],
+  "special_behavior": [
+    "fast runners",
+    "largest eggs of any bird",
+    "booming vocalizations"
+  ],
+  "speed": ["fast runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["least concern"],
+  "habitat": ["savannas", "semi-arid regions"],
+  "diet": ["omnivorous", "plants", "invertebrates"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "flightless birds known for their powerful legs and long necks",
+    "largest eggs of any bird species",
+    "capable of reaching high speeds when running",
+    "found in the open savannas and semi-arid regions of Africa"
+  ]
+}

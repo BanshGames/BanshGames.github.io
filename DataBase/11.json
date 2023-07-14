@@ -1,25 +1,27 @@
 {
-  "title": "Elephant",
+  "title": "Rhino",
   "color": ["gray", "brown"],
-  "feature": ["giant size", "tusks", "trunk", "thick skin"],
+  "feature": ["large size", "thick skin", "two horns"],
   "geolocation": ["Africa", "Asia"],
-  "use": ["ecosystem balance", "tourism", "cultural significance"],
-  "measurement": ["height: 8-13 ft", "weight: 5,000-14,000 kg"],
+  "use": ["ecosystem balance", "conservation"],
+  "measurement": [
+    "length: 10-13 ft",
+    "height: 5-6 ft",
+    "weight: 1,500-3,000 kg"
+  ],
   "origin": ["Africa", "Asia"],
-  "special_behavior": ["herd animal", "excellent memory"],
-  "speed": ["up to 40 km/h"],
-  "lifespan": ["up to 70 years"],
-  "reproduction": ["gestation period: 22 months", "calves at birth"],
-  "communication": ["trumpeting", "rumbling vibrations"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["forests", "savannahs"],
-  "diet": ["herbivorous", "grasses", "leaves", "bark"],
-  "predators": ["humans (poaching)"],
-  "threats": ["habitat loss", "illegal ivory trade"],
+  "special_behavior": ["herbivorous", "solitary"],
+  "speed": ["up to 30-40 mph"],
+  "age": ["lifespan of 35-50 years in the wild"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["vulnerable"],
+  "habitat": ["grasslands", "savannahs"],
+  "diet": ["herbivorous", "grasses", "leaves", "shoots"],
+  "predators": ["few natural predators"],
   "facts": [
-    "largest land animal",
-    "highly intelligent",
-    "social animals with complex relationships",
-    "play an important role in shaping their environment"
+    "have distinctive horns made of keratin",
+    "excellent sense of smell",
+    "heavy and powerful animals",
+    "highly threatened by poaching and habitat loss"
   ]
 }

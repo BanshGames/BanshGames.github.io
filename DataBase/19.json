@@ -1,26 +1,23 @@
 {
-  "title": "Tiger",
-  "color": ["orange", "black", "white"],
-  "feature": ["striking pattern", "carnivorous", "animal"],
-  "geolocation": ["Asia"],
+  "title": "Panda",
+  "color": ["black", "white"],
+  "feature": ["large size", "distinctive black and white coat"],
+  "geolocation": ["China"],
   "use": ["ecosystem balance", "conservation"],
-  "measurement": [
-    "length: varies depending on species",
-    "weight: varies depending on species"
-  ],
-  "origin": ["Asia"],
-  "special_behavior": ["solitary", "powerful hunter"],
-  "speed": ["up to 40 mph"],
-  "age": ["lifespan of 10-15 years in the wild"],
-  "communication": ["vocalizations", "body language"],
+  "measurement": ["length: 4-6 ft", "height: 2-3 ft", "weight: 220-330 lb"],
+  "origin": ["China"],
+  "special_behavior": ["bamboo specialists", "solitary"],
+  "speed": ["slow-moving"],
+  "age": ["lifespan of 20 years in the wild"],
+  "communication": ["vocalizations", "scent marking"],
   "conservation_status": ["endangered"],
-  "habitat": ["forests", "grasslands", "swamps"],
-  "diet": ["carnivorous", "prey on ungulates"],
+  "habitat": ["bamboo forests"],
+  "diet": ["bamboo shoots", "leaves", "occasional meat"],
   "predators": ["few natural predators"],
   "facts": [
-    "largest cat species in the world",
-    "distinctive coat patterns for camouflage",
-    "excellent swimmers",
-    "play a crucial role in maintaining ecosystem balance"
+    "symbol of conservation efforts worldwide",
+    "primarily feed on bamboo, with specialized adaptations",
+    "low reproductive rate and highly endangered",
+    "conservation programs have helped increase their population"
   ]
 }

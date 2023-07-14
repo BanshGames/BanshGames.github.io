@@ -1,0 +1,27 @@
+{
+  "title": "Armadillo",
+  "color": ["various colors"],
+  "feature": ["armor-like shell", "claws", "digging abilities"],
+  "geolocation": ["Americas"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Americas"],
+  "special_behavior": [
+    "burrowers",
+    "rolling into a ball",
+    "grunting vocalizations"
+  ],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["various habitats", "forests", "grasslands"],
+  "diet": ["omnivorous", "insects", "plants", "small vertebrates"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "mammals known for their armored shell made of bony plates",
+    "capable diggers and burrowers",
+    "some species can roll into a ball for protection",
+    "found in a range of habitats across the Americas"
+  ]
+}

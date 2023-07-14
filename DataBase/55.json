@@ -1,0 +1,27 @@
+{
+  "title": "Rat",
+  "color": ["various colors"],
+  "feature": ["small to medium size", "long tail", "pointed snout"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["lab animals", "pest control"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": [
+    "nocturnal",
+    "excellent climbers",
+    "squeaking vocalizations"
+  ],
+  "speed": ["swift runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["various habitats", "urban areas", "sewers"],
+  "diet": ["omnivorous", "seeds", "grains", "insects"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "small to medium-sized rodents known for their adaptability",
+    "prolific breeders with rapid reproduction rates",
+    "capable climbers and swimmers",
+    "regarded as pests in some settings due to their destructive behavior"
+  ]
+}

@@ -1,28 +1,23 @@
 {
-  "title": "Gray Wolf",
-  "color": ["gray", "brown", "black", "white"],
-  "feature": ["thick fur", "sharp teeth", "strong jaw"],
-  "geolocation": ["North America", "Eurasia"],
+  "title": "Kangaroo",
+  "color": ["various colors"],
+  "feature": ["powerful hind legs", "long tail", "pouch"],
+  "geolocation": ["Australia", "New Guinea"],
   "use": ["ecosystem balance", "cultural significance"],
-  "measurement": [
-    "length: 4.5-6.5 ft",
-    "height: 2.5-3.5 ft",
-    "weight: 60-120 lb"
-  ],
-  "origin": ["North America", "Eurasia"],
-  "special_behavior": ["highly social", "pack animal"],
-  "speed": ["up to 35 mph"],
-  "lifespan": ["up to 13 years in the wild"],
-  "reproduction": ["mating pairs", "litters of 4-7 pups"],
-  "communication": ["howling", "body language", "scent marking"],
-  "conservation_status": ["least concern"],
-  "habitat": ["forests", "mountains", "tundra"],
-  "diet": ["carnivorous", "ungulates", "small mammals"],
-  "predators": ["humans (historically)"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Australia", "New Guinea"],
+  "special_behavior": ["marsupial", "hop locomotion", "pouch for young"],
+  "speed": ["up to 40 mph"],
+  "age": ["lifespan of 6-8 years in the wild"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["varies depending on species", "grasslands", "woodlands"],
+  "diet": ["herbivorous", "grasses", "leaves"],
+  "predators": ["dingoes", "eagles"],
   "facts": [
-    "highly adaptable and intelligent",
-    "excellent hunters and team players",
-    "keystone species with ecological impact",
-    "featured in numerous myths and legends"
+    "marsupials with unique reproductive system",
+    "known for their hopping locomotion",
+    "males often engage in boxing matches",
+    "iconic symbol of Australia"
   ]
 }

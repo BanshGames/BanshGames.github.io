@@ -1,0 +1,23 @@
+{
+  "title": "Horse",
+  "color": ["various colors"],
+  "feature": ["hooves", "mane", "tail"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["transportation", "recreation", "working animals"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["herbivorous", "herd animals", "running and galloping"],
+  "speed": ["varies depending on breed"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["various habitats", "pastures", "stables"],
+  "diet": ["herbivorous", "grasses", "hay", "grains"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "domesticated hoofed mammals",
+    "used for transportation, sport, and working purposes",
+    "known for their speed, strength, and endurance",
+    "play important roles in human history and cultural traditions"
+  ]
+}

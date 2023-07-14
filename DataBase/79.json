@@ -1,0 +1,23 @@
+{
+  "title": "Iguana",
+  "color": ["green", "brown"],
+  "feature": ["reptiles", "scales", "long tail"],
+  "geolocation": ["Central and South America", "Caribbean islands"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Central and South America", "Caribbean islands"],
+  "special_behavior": ["arboreal", "herbivorous", "head bobbing displays"],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["body language", "visual displays"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["tropical rainforests", "coastal areas"],
+  "diet": ["herbivorous", "leaves", "flowers", "fruits"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "reptiles known for their distinct scales and long tails",
+    "arboreal species that spend much of their time in trees",
+    "herbivorous animals with a diet primarily composed of vegetation",
+    "found in tropical rainforests and coastal areas of Central and South America"
+  ]
+}

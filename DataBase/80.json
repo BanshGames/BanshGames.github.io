@@ -1,0 +1,23 @@
+{
+  "title": "Tarantula",
+  "color": ["various colors"],
+  "feature": ["spiders", "hairy bodies", "venomous fangs"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["predatory", "venomous bites", "web-spinning"],
+  "speed": ["relatively slow"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vibrations", "chemical signals"],
+  "conservation_status": ["least concern"],
+  "habitat": ["various habitats", "forests", "deserts"],
+  "diet": ["carnivorous", "insects", "small vertebrates"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "large spiders known for their hairy bodies and venomous fangs",
+    "predatory creatures that catch their prey using webs or ambush tactics",
+    "found in various habitats worldwide, from forests to deserts",
+    "important in maintaining insect populations and ecological balance"
+  ]
+}

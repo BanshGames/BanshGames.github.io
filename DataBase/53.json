@@ -1,0 +1,23 @@
+{
+  "title": "Squirrel",
+  "color": ["various colors"],
+  "feature": ["bushy tail", "sharp claws", "front teeth"],
+  "geolocation": ["various regions worldwide"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["various regions worldwide"],
+  "special_behavior": ["arboreal", "tree climbers", "chattering vocalizations"],
+  "speed": ["fast climbers", "swift runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["various habitats", "forests", "urban areas"],
+  "diet": ["omnivorous", "nuts", "seeds", "fruits", "insects"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "small rodents known for their bushy tails and agility",
+    "adapted for climbing trees and leaping between branches",
+    "important seed dispersers in forests",
+    "store food in hidden caches for future use"
+  ]
+}

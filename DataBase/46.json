@@ -1,0 +1,23 @@
+{
+  "title": "Rooster",
+  "color": ["various colors"],
+  "feature": ["male chicken", "vibrant plumage", "comb and wattles"],
+  "geolocation": ["originated from wild jungle fowl"],
+  "use": ["ornamental", "sound signals"],
+  "measurement": ["size varies depending on breed"],
+  "origin": ["originated from wild jungle fowl"],
+  "special_behavior": ["crow to announce dawn", "territorial displays"],
+  "speed": ["limited flight abilities"],
+  "age": ["lifespan varies depending on breed"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["not applicable (domesticated species)"],
+  "habitat": ["farm settings", "backyards"],
+  "diet": ["omnivorous", "seeds", "insects", "vegetable scraps"],
+  "predators": ["varies depending on location"],
+  "facts": [
+    "adult male chicken known as a rooster",
+    "vibrant plumage and distinct comb and wattles",
+    "crow to mark territory and announce dawn",
+    "important for breeding and social dynamics within a flock"
+  ]
+}

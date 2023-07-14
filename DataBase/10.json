@@ -1,26 +1,27 @@
 {
-  "title": "Whale",
-  "color": ["varied"],
-  "feature": ["gigantic size", "aquatic mammal", "blubber for insulation"],
-  "geolocation": ["oceans"],
-  "use": ["ecosystem balance", "tourism", "scientific research"],
+  "title": "Hippopotamus",
+  "color": ["gray", "brown"],
+  "feature": ["large size", "stocky build", "massive jaws"],
+  "geolocation": ["Africa"],
+  "use": ["ecosystem balance"],
   "measurement": [
-    "length: varies depending on species",
-    "weight: varies depending on species"
+    "length: 9-15 ft",
+    "height: 4.5-5 ft",
+    "weight: 3,000-4,000 kg"
   ],
-  "origin": ["oceans"],
-  "special_behavior": ["migratory", "breaching", "singing"],
-  "speed": ["varies depending on species"],
-  "lifespan": ["varies depending on species"],
-  "reproduction": ["viviparous (gives birth to live young)"],
-  "communication": ["vocalizations", "whale songs"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["oceans", "seas"],
-  "diet": ["filter feeder", "krill", "small fish"],
-  "predators": ["larger predatory marine animals"],
-  "migration": ["long-distance seasonal migrations"],
-  "vocalizations": ["complex songs and calls"],
-  "ecological_role": ["maintains marine food chains"],
-  "cultural_significance": ["symbolic in various cultures"],
-  "mythology": ["legendary creatures in folklore"]
+  "origin": ["Africa"],
+  "special_behavior": ["semi-aquatic", "aggressive", "territorial"],
+  "speed": ["up to 19 mph"],
+  "age": ["lifespan of 40-50 years in the wild"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["vulnerable"],
+  "habitat": ["rivers", "lakes", "swamps"],
+  "diet": ["herbivorous", "grasses", "aquatic plants"],
+  "predators": ["lions", "crocodiles"],
+  "facts": [
+    "third-largest land mammal",
+    "spend most of their time in water",
+    "have special glands that secrete pink oily substance",
+    "play an important role in aquatic ecosystems"
+  ]
 }

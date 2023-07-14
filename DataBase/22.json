@@ -1,0 +1,23 @@
+{
+  "title": "Whale",
+  "color": ["various colors"],
+  "feature": ["massive size", "blowhole", "flukes"],
+  "geolocation": ["oceans"],
+  "use": ["ecosystem balance", "tourism"],
+  "measurement": ["length: varies depending on species"],
+  "origin": ["oceans"],
+  "special_behavior": ["filter feeders", "migratory", "sing complex songs"],
+  "speed": ["varies depending on species"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["oceans"],
+  "diet": ["varies depending on species", "krill", "small fish", "plankton"],
+  "predators": ["few natural predators"],
+  "facts": [
+    "largest animals on Earth",
+    "many species undertake long-distance migrations",
+    "produce complex songs and sounds for communication",
+    "play a critical role in marine ecosystems"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Hyena",
+  "color": ["varies depending on species"],
+  "feature": ["carnivorous mammals", "strong jaws", "distinctive laughs"],
+  "geolocation": ["Africa", "Asia"],
+  "use": ["ecosystem balance"],
+  "measurement": ["size varies depending on species"],
+  "origin": ["Africa", "Asia"],
+  "special_behavior": [
+    "social animals",
+    "opportunistic hunters",
+    "vocalizations"
+  ],
+  "speed": ["fast runners"],
+  "age": ["lifespan varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "conservation_status": ["varies depending on species"],
+  "habitat": ["various habitats", "savannas", "forests"],
+  "diet": ["carnivorous", "scavengers", "hunters"],
+  "predators": ["varies depending on species"],
+  "facts": [
+    "carnivorous mammals known for their distinctive laughs",
+    "have strong jaws and powerful bite forces",
+    "play important roles as scavengers and hunters",
+    "found in various habitats across Africa and Asia"
+  ]
+}
