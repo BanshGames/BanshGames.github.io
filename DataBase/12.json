@@ -1,23 +1,23 @@
 {
-  "title": "Bear",
-  "color": ["various colors"],
-  "feature": ["large size", "strong build", "claws"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["omnivorous", "hibernation", "climbing"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
+  "title": "Indian rhinoceros",
+  "visual": ["large size", "single horn", "thick skin"],
+  "about": [
+    "large herbivorous mammal",
+    "found in grasslands and wetlands",
+    "herbivorous diet",
+    "lifespan: up to 35-40 years in the wild"
+  ],
+  "geolocation": ["India", "Nepal", "grasslands", "wetlands"],
+  "measurement": [
+    "height: up to 5-6 ft",
+    "weight: up to 2,000-2,800 kg",
+    "length: up to 10-12 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "forests", "mountainous regions"],
-  "diet": ["omnivorous", "plants", "berries", "fish", "insects"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "large and powerful mammals",
-    "adapted to various habitats and climates",
-    "some species undergo hibernation",
-    "important for forest ecosystems and seed dispersal"
+  "other": [
+    "distinctive single horn and armor-like skin",
+    "social behavior and territoriality",
+    "importance in ecosystems as a grazer and seed disperser",
+    "conservation efforts to protect populations from poaching and habitat loss"
   ]
 }

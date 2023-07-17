@@ -1,23 +1,19 @@
 {
-  "title": "Rabbit",
-  "color": ["various colors"],
-  "feature": ["long ears", "hind legs", "soft fur"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["companion pets", "livestock"],
-  "measurement": ["size varies depending on breed"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["herbivorous", "burrowers", "thumping vocalizations"],
-  "speed": ["fast runners"],
-  "age": ["lifespan varies depending on breed"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["not applicable (domesticated species)"],
-  "habitat": ["various habitats", "burrows"],
-  "diet": ["herbivorous", "grasses", "leafy plants", "vegetables"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "small mammals known for their long ears and soft fur",
-    "popular pets and livestock animals",
-    "adapted for fast running and burrowing",
-    "breed prolifically and have short gestation periods"
+  "title": "Guinea pig",
+  "visual": ["small to medium size", "rounded body", "no visible tail"],
+  "about": [
+    "small domesticated rodent species",
+    "originated from South America",
+    "herbivorous diet",
+    "lifespan: up to 5-7 years in captivity"
+  ],
+  "geolocation": ["South America"],
+  "measurement": ["length: up to 8-10 inches", "weight: up to 1-2 lbs"],
+  "communication": ["squeaking sounds", "body language"],
+  "other": [
+    "docile and social nature",
+    "popular pet and used in scientific research",
+    "various breeds with different coat types",
+    "conservation concerns related to preserving genetic diversity"
   ]
 }

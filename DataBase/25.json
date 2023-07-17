@@ -1,23 +1,19 @@
 {
-  "title": "Crab",
-  "color": ["various colors"],
-  "feature": ["hard exoskeleton", "claws", "sideways movement"],
-  "geolocation": ["oceans", "seas", "freshwater"],
-  "use": ["ecosystem balance", "culinary"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["oceans", "seas", "freshwater"],
-  "special_behavior": ["bottom-dweller", "regeneration of lost limbs"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["chemical signals", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["oceans", "seas", "freshwater"],
-  "diet": ["omnivorous", "algae", "small organisms", "detritus"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "crustaceans with a wide range of shapes and sizes",
-    "important scavengers and cleaners in marine ecosystems",
-    "some species have highly prized culinary value",
-    "capable of regenerating lost limbs and damaged exoskeletons"
+  "title": "American lobster",
+  "visual": ["large size", "hard exoskeleton", "claws"],
+  "about": [
+    "large marine crustacean",
+    "found in North Atlantic Ocean",
+    "omnivorous diet",
+    "lifespan: up to 20-30 years"
+  ],
+  "geolocation": ["North Atlantic Ocean"],
+  "measurement": ["length: up to 8-10 inches"],
+  "communication": ["body language"],
+  "other": [
+    "commercially important species",
+    "burrowing behavior and habitat preferences",
+    "mating and molting cycles",
+    "conservation efforts to maintain sustainable populations"
   ]
 }

@@ -1,23 +1,18 @@
 {
-  "title": "Platypus",
-  "color": ["dark brown", "light brown"],
-  "feature": ["mammals", "duck-billed", "venomous spurs"],
-  "geolocation": ["Eastern Australia", "Tasmania"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Eastern Australia", "Tasmania"],
-  "special_behavior": ["semiaquatic", "venomous spurs", "electroreception"],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["near threatened"],
-  "habitat": ["rivers", "lakes", "wetlands"],
-  "diet": ["carnivorous", "aquatic invertebrates", "small vertebrates"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "unique mammals known for their duck-billed appearance and venomous spurs",
-    "semiaquatic creatures that spend much of their time in water",
-    "use electroreception to detect prey in their environment",
-    "endemic to Eastern Australia and considered a national symbol"
+  "title": "Least weasel",
+  "visual": ["small size", "slender body", "short tail"],
+  "about": [
+    "mustelid species found in Eurasia and North America",
+    "carnivorous diet",
+    "lifespan: up to 2-3 years in the wild"
+  ],
+  "geolocation": ["Eurasia", "North America"],
+  "measurement": ["length: up to 6-8 inches", "weight: up to 1-2 oz"],
+  "communication": ["chattering and hissing sounds", "body language"],
+  "other": [
+    "agile hunters and skilled in burrowing",
+    "able to prey on animals larger than themselves",
+    "seasonal color changes for camouflage",
+    "conservation concerns related to habitat loss and fragmentation"
   ]
 }

@@ -1,23 +1,23 @@
 {
-  "title": "Elephant",
-  "color": ["gray", "brown"],
-  "feature": ["giant size", "tusks", "trunk", "thick skin"],
-  "geolocation": ["Africa", "Asia"],
-  "use": ["ecosystem balance", "tourism", "cultural significance"],
-  "measurement": ["height: 8-13 ft", "weight: 5,000-14,000 kg"],
-  "origin": ["Africa", "Asia"],
-  "special_behavior": ["herd animal", "excellent memory"],
-  "speed": ["up to 40 km/h"],
-  "age": ["lifespan of 70 years"],
-  "communication": ["trumpeting", "rumbling vibrations"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["forests", "savannahs"],
-  "diet": ["herbivorous", "grasses", "leaves", "bark"],
-  "predators": ["humans (poaching)"],
-  "facts": [
-    "largest land animal",
-    "highly intelligent",
-    "social animals with complex relationships",
-    "play an important role in shaping their environment"
+  "title": "Domestic cat",
+  "visual": ["small to medium size", "feline", "various coat patterns"],
+  "about": [
+    "small carnivorous mammal kept as a pet",
+    "found in human households worldwide",
+    "carnivorous diet",
+    "lifespan: up to 15-20 years"
+  ],
+  "geolocation": ["worldwide", "human households"],
+  "measurement": [
+    "height: up to 9-10 in",
+    "weight: up to 8-10 lbs",
+    "length: up to 18-20 in"
+  ],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "varieties of coat colors and patterns",
+    "playful and independent behavior",
+    "domestication and cultural significance",
+    "conservation of wild cat species"
   ]
 }

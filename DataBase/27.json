@@ -1,26 +1,19 @@
 {
-  "title": "Fish",
-  "color": ["various colors"],
-  "feature": ["sleek body", "fins", "gills"],
-  "geolocation": ["oceans", "seas", "freshwater"],
-  "use": ["ecosystem balance", "culinary"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["oceans", "seas", "freshwater"],
-  "special_behavior": [
-    "wide range of adaptations",
-    "variety of swimming styles"
+  "title": "Green sea turtle",
+  "visual": ["large size", "flattened body", "greenish-brown color"],
+  "about": [
+    "large marine turtle species",
+    "found in tropical and subtropical waters",
+    "herbivorous diet",
+    "lifespan: up to 80-100 years"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations (some species)", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["oceans", "seas", "freshwater"],
-  "diet": ["varies depending on species", "plankton", "small fish", "insects"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "most diverse group of vertebrates",
-    "adapted to various aquatic environments",
-    "display a wide range of shapes, sizes, and behaviors",
-    "important for maintaining aquatic ecosystems"
+  "geolocation": ["global", "tropical waters", "subtropical waters"],
+  "measurement": ["length: up to 3-4 ft", "weight: up to 200-500 lbs"],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "endangered species",
+    "long-distance migrations for nesting",
+    "importance in marine ecosystems as grazers and seed dispersers",
+    "conservation efforts to protect nesting sites and reduce threats"
   ]
 }

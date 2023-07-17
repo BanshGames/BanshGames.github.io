@@ -1,23 +1,19 @@
 {
-  "title": "Porcupine",
-  "color": ["brown", "black"],
-  "feature": ["rodents", "quills", "sharp spines"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["nocturnal", "herbivorous", "rattling quills"],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "rattling quills"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "forests", "grasslands"],
-  "diet": ["herbivorous", "bark", "twigs", "plants"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "rodents known for their sharp spines and ability to shoot quills",
-    "defense mechanism where they rattle their quills as a warning",
-    "herbivorous animals that feed on a variety of plant materials",
-    "found in various habitats worldwide, including forests and grasslands"
+  "title": "Ocelot",
+  "visual": ["medium size", "spotted coat", "long tail"],
+  "about": [
+    "small wild cat species",
+    "found in Central and South America",
+    "carnivorous diet",
+    "lifespan: up to 10-12 years in the wild"
+  ],
+  "geolocation": ["Central and South America"],
+  "measurement": ["length: up to 3-4 ft", "weight: up to 15-25 lbs"],
+  "communication": ["hissing and growling sounds", "body language"],
+  "other": [
+    "nocturnal and solitary behavior",
+    "excellent climbers and swimmers",
+    "adaptations for hunting in diverse habitats",
+    "conservation concerns related to habitat loss and illegal trade"
   ]
 }

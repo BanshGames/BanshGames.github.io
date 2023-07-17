@@ -1,23 +1,18 @@
 {
-  "title": "Orangutan",
-  "color": ["red", "brown"],
-  "feature": ["great apes", "long arms", "highly intelligent"],
-  "geolocation": ["Borneo", "Sumatra"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Borneo", "Sumatra"],
-  "special_behavior": ["arboreal", "solitary", "vocalizations"],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "gestures"],
-  "conservation_status": ["critically endangered"],
-  "habitat": ["tropical rainforests", "swamps"],
-  "diet": ["omnivorous", "fruits", "leaves", "insects"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "great apes native to Borneo and Sumatra",
-    "known for their intelligence and problem-solving abilities",
-    "spend most of their time in trees and build nests for resting",
-    "face severe threats due to habitat loss and illegal hunting"
+  "title": "Green iguana",
+  "visual": ["large size", "scales", "crests on back"],
+  "about": [
+    "lizard species native to Central and South America",
+    "herbivorous diet",
+    "lifespan: up to 10-15 years in the wild"
+  ],
+  "geolocation": ["Central America", "South America"],
+  "measurement": ["length: up to 4-6 ft", "weight: up to 10-20 lbs"],
+  "communication": ["head bobs", "body language"],
+  "other": [
+    "arboreal and diurnal lifestyle",
+    "basking behavior for thermoregulation",
+    "importance as seed dispersers",
+    "conservation concerns related to habitat loss and illegal trade"
   ]
 }

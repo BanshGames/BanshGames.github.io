@@ -1,27 +1,19 @@
 {
-  "title": "Rhinoceros",
-  "color": ["varies depending on species"],
-  "feature": ["large mammals", "horn on the nose", "thick skin"],
-  "geolocation": ["Africa", "Asia"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Africa", "Asia"],
-  "special_behavior": [
-    "herbivorous",
-    "solitary or social",
-    "rumbling vocalizations"
+  "title": "Donkey",
+  "visual": ["medium size", "long ears", "tufted tail"],
+  "about": [
+    "domesticated equid species",
+    "originated from Africa",
+    "herbivorous diet",
+    "lifespan: up to 25-30 years in captivity"
   ],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["critically endangered"],
-  "habitat": ["various habitats", "grasslands", "forests"],
-  "diet": ["herbivorous", "grasses", "leaves", "plants"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "large mammals known for their distinctive horns and thick skin",
-    "herbivorous grazers with unique feeding adaptations",
-    "face severe threats from poaching and habitat loss",
-    "play important roles in shaping and maintaining ecosystems"
+  "geolocation": ["Africa"],
+  "measurement": ["height: up to 3-4 ft", "weight: up to 400-600 lbs"],
+  "communication": ["braying sounds", "body language"],
+  "other": [
+    "used for transportation and agricultural purposes",
+    "strong work ethic and endurance",
+    "various breeds with different sizes and coat colors",
+    "conservation concerns related to declining populations"
   ]
 }

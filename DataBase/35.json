@@ -1,27 +1,19 @@
 {
-  "title": "Alligator",
-  "color": ["various colors"],
-  "feature": ["large size", "broad snout", "powerful jaws"],
-  "geolocation": ["United States", "China"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["United States", "China"],
-  "special_behavior": [
-    "semiaquatic",
-    "ambush predators",
-    "sensitive to temperature"
+  "title": "African grey parrot",
+  "visual": ["medium size", "gray feathers", "red tail feathers"],
+  "about": [
+    "highly intelligent parrot species",
+    "found in the rainforests of West and Central Africa",
+    "omnivorous diet",
+    "lifespan: up to 40-60 years in captivity"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
+  "geolocation": ["West Africa", "Central Africa", "rainforests"],
+  "measurement": ["height: up to 13-16 inches"],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "swamps", "rivers"],
-  "diet": ["carnivorous", "fish", "mammals", "reptiles"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "close relatives of crocodiles with similar appearances",
-    "adapted to freshwater habitats",
-    "known for their powerful jaws and ability to ambush prey",
-    "some species have made successful comebacks from near extinction"
+  "other": [
+    "remarkable cognitive abilities and mimicry skills",
+    "strong social bonds and pair bonding",
+    "threats from habitat loss and illegal trade",
+    "conservation efforts to protect wild populations"
   ]
 }

@@ -1,23 +1,19 @@
 {
-  "title": "Flamingo",
-  "color": ["pink", "red", "white"],
-  "feature": ["long legs", "curved neck", "webbed feet"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["filter feeders", "standing on one leg", "social"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["saltwater lakes", "lagoons"],
-  "diet": ["filter feeders", "plankton", "algae", "small invertebrates"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "known for their distinctive pink coloration",
-    "filter feeders that extract food from water",
-    "stand on one leg for long periods to conserve energy",
-    "form large, social colonies for breeding and feeding"
+  "title": "Cattle",
+  "visual": ["large size", "bovine appearance", "horns (in some breeds)"],
+  "about": [
+    "domesticated ungulate species",
+    "originated from wild aurochs",
+    "herbivorous diet",
+    "lifespan: up to 15-20 years in captivity"
+  ],
+  "geolocation": ["domesticated"],
+  "measurement": ["height: up to 4-6 ft", "weight: up to 1,000-2,000 lbs"],
+  "communication": ["mooing sounds", "body language"],
+  "other": [
+    "domestication for milk, meat, and labor",
+    "variety of breeds with different characteristics",
+    "herd social structure and grazing behavior",
+    "conservation concerns related to genetic diversity"
   ]
 }

@@ -1,27 +1,19 @@
 {
-  "title": "Lizard",
-  "color": ["various colors"],
-  "feature": ["scaled skin", "four legs", "tail"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["insect control"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "cold-blooded",
-    "regeneration of lost tail",
-    "camouflage abilities"
+  "title": "Golden eagle",
+  "visual": ["large size", "brown feathers", "prominent beak and talons"],
+  "about": [
+    "large bird of prey",
+    "found in North America, Europe, and Asia",
+    "carnivorous diet",
+    "lifespan: up to 20-30 years in the wild"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["body language", "chemical signals"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "deserts", "forests"],
-  "diet": ["carnivorous", "insects", "small invertebrates"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "scaled reptiles with unique adaptations for their environment",
-    "many species can change color for camouflage",
-    "some species can regenerate their lost tails",
-    "play important ecological roles as insect predators"
+  "geolocation": ["North America", "Europe", "Asia"],
+  "measurement": ["wingspan: up to 6-7 ft", "weight: up to 10-15 lbs"],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "powerful hunter and skilled flier",
+    "nesting in cliffs and trees",
+    "importance in ecosystems as a top predator",
+    "conservation concerns related to habitat loss and illegal hunting"
   ]
 }

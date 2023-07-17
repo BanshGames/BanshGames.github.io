@@ -1,23 +1,22 @@
 {
-  "title": "Deer",
-  "color": ["various colors"],
-  "feature": ["graceful body", "antlers (in males)"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["herbivorous", "seasonal antler shedding"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
+  "title": "Koala",
+  "visual": ["small to medium size", "gray fur", "large round ears"],
+  "about": [
+    "arboreal marsupial known for eating eucalyptus leaves",
+    "found in eucalypt forests",
+    "herbivorous diet",
+    "lifespan: up to 10-15 years in the wild"
+  ],
+  "geolocation": ["Australia", "eucalypt forests"],
+  "measurement": [
+    "height: up to 2-3 ft",
+    "weight: up to 10-20 lbs",
+    "length: up to 2-3 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "forests", "grasslands"],
-  "diet": ["herbivorous", "grasses", "leaves", "twigs"],
-  "predators": ["varies depending on location and species"],
-  "facts": [
-    "hoofed mammals known for their agility and speed",
-    "some species have elaborate antlers",
-    "important prey animals in many ecosystems",
-    "play a role in seed dispersal and vegetation control"
+  "other": [
+    "slow-moving and solitary behavior",
+    "specialized diet and digestive system",
+    "conservation concerns due to habitat loss and disease"
   ]
 }

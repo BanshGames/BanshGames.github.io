@@ -1,27 +1,18 @@
 {
-  "title": "Mule",
-  "color": ["varies depending on parent breeds"],
-  "feature": ["hybrid", "strong and sturdy", "long ears"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["transportation", "work animals"],
-  "measurement": ["size varies depending on parent breeds"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "hybrid offspring",
-    "surefootedness",
-    "braying vocalizations"
+  "title": "North American porcupine",
+  "visual": ["medium to large size", "quill-covered body", "short legs"],
+  "about": [
+    "rodent species native to North America",
+    "herbivorous diet",
+    "lifespan: up to 10-15 years in the wild"
   ],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on parent breeds"],
-  "communication": ["braying vocalizations", "body language"],
-  "conservation_status": ["not evaluated"],
-  "habitat": ["various habitats", "grasslands", "mountainous regions"],
-  "diet": ["herbivorous", "grasses", "plants"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "hybrid offspring of a male donkey and a female horse",
-    "known for their strong and sturdy build, inherited from their parents",
-    "used as working animals and for transportation in various regions",
-    "found in a range of habitats, adapting to different environments"
+  "geolocation": ["North America"],
+  "measurement": ["length: up to 2-3 ft", "weight: up to 10-30 lbs"],
+  "communication": ["grunts and whines", "body language"],
+  "other": [
+    "nocturnal and solitary behavior",
+    "defensive mechanism with sharp quills",
+    "arboreal and terrestrial lifestyles",
+    "importance in forest ecosystems"
   ]
 }

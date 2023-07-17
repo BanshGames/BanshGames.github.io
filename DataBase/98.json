@@ -1,23 +1,19 @@
 {
-  "title": "Ostrich",
-  "color": ["gray", "brown"],
-  "feature": ["birds", "long neck", "strong legs"],
-  "geolocation": ["Africa"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Africa"],
-  "special_behavior": ["flightless", "fast runners", "booming vocalizations"],
-  "speed": ["fast runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["least concern"],
-  "habitat": ["various habitats", "grasslands", "savannas"],
-  "diet": ["omnivorous", "plants", "insects", "small animals"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "flightless birds known for their long necks and powerful legs",
-    "considered the largest living bird species",
-    "adapted for running at high speeds and have a distinctive booming call",
-    "native to Africa and inhabit various habitats, including grasslands and savannas"
+  "title": "Wildcat",
+  "visual": ["medium size", "agile build", "striped coat"],
+  "about": [
+    "small felid species",
+    "found in Europe, Asia, and Africa",
+    "carnivorous diet",
+    "lifespan: up to 10-12 years in the wild"
+  ],
+  "geolocation": ["Europe", "Asia", "Africa"],
+  "measurement": ["length: up to 2-3 ft", "weight: up to 10-20 lbs"],
+  "communication": ["spitting and growling sounds", "body language"],
+  "other": [
+    "solitary and territorial behavior",
+    "excellent hunters and climbers",
+    "variations in coat color and pattern",
+    "conservation concerns related to hybridization and habitat loss"
   ]
 }

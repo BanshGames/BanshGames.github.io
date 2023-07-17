@@ -1,0 +1,26 @@
+{
+  "title": "Giraffe",
+  "visual": ["patchy patterns", "orange, brown, and white", "taller"],
+  "about": [
+    "long neck",
+    "long legs",
+    "distinctive coat patterns",
+    "tallest land animal",
+    "browsing herbivore",
+    "age:25 years"
+  ],
+  "geolocation": ["Africa", "savannahs", "woodlands"],
+  "measurement": [
+    "height: 14-18 ft",
+    "weight: 1,600-3,000 kg",
+    "speed : 35 mph"
+  ],
+  "communication": ["low-frequency vocalizations", "necking (combat)"],
+  "other": [
+    "longest neck of any animal, with 7 neck vertebrae",
+    "excellent eyesight",
+    "keen sense of smell",
+    "form loose social groups(towers)",
+    "dispersal of seeds"
+  ]
+}

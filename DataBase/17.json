@@ -1,23 +1,22 @@
 {
-  "title": "Kangaroo",
-  "color": ["various colors"],
-  "feature": ["powerful hind legs", "long tail", "pouch"],
-  "geolocation": ["Australia", "New Guinea"],
-  "use": ["ecosystem balance", "cultural significance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Australia", "New Guinea"],
-  "special_behavior": ["marsupial", "hop locomotion", "pouch for young"],
-  "speed": ["up to 40 mph"],
-  "age": ["lifespan of 6-8 years in the wild"],
+  "title": "Giant panda",
+  "visual": ["medium size", "black and white fur", "round face"],
+  "about": [
+    "large bear-like mammal",
+    "found in mountainous regions",
+    "bamboo diet",
+    "lifespan: up to 20-30 years in the wild"
+  ],
+  "geolocation": ["China", "mountainous regions"],
+  "measurement": [
+    "height: up to 3-4 ft",
+    "weight: up to 200-300 lbs",
+    "length: up to 4-6 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "grasslands", "woodlands"],
-  "diet": ["herbivorous", "grasses", "leaves"],
-  "predators": ["dingoes", "eagles"],
-  "facts": [
-    "marsupials with unique reproductive system",
-    "known for their hopping locomotion",
-    "males often engage in boxing matches",
-    "iconic symbol of Australia"
+  "other": [
+    "adaptations for bamboo feeding",
+    "solitary behavior and territoriality",
+    "conservation efforts to protect habitats and increase population"
   ]
 }

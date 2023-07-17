@@ -1,23 +1,23 @@
 {
-  "title": "Dog",
-  "color": ["various colors"],
-  "feature": ["domesticated", "canine", "loyal", "intelligent"],
-  "geolocation": ["worldwide"],
-  "use": ["companion", "working"],
-  "measurement": ["size varies depending on breed"],
-  "origin": ["worldwide"],
-  "special_behavior": ["social", "responsive to training"],
-  "speed": ["varies depending on breed"],
-  "age": ["lifespan varies depending on breed"],
-  "communication": ["barking", "body language"],
-  "conservation_status": ["not applicable"],
-  "habitat": ["domesticated"],
-  "diet": ["omnivorous"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "one of the first domesticated animals",
-    "wide variety of breeds with different characteristics",
-    "excellent sense of smell and hearing",
-    "known for their strong bond with humans"
+  "title": "Gray wolf",
+  "visual": ["medium to large size", "canine", "shaggy fur"],
+  "about": [
+    "highly adaptable and social carnivore",
+    "found in various habitats",
+    "carnivorous diet",
+    "lifespan: up to 6-8 years in the wild"
+  ],
+  "geolocation": ["North America", "Eurasia", "various habitats"],
+  "measurement": [
+    "height: up to 2-3 ft",
+    "weight: up to 40-175 lbs",
+    "length: up to 4-6 ft"
+  ],
+  "communication": ["howling", "body language"],
+  "other": [
+    "pack structure and cooperative hunting",
+    "keystone species in ecosystems",
+    "cultural significance and symbolism",
+    "conservation concerns due to habitat loss and hunting"
   ]
 }

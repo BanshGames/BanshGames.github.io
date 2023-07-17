@@ -1,23 +1,23 @@
 {
-  "title": "Zebra",
-  "color": ["black", "white"],
-  "feature": ["striped coat pattern", "herbivorous", "hooved"],
-  "geolocation": ["Africa"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["length: 100-120 in", "height: 4-5 ft", "weight: 450 kg"],
-  "origin": ["Africa"],
-  "special_behavior": ["social", "grazing herbivore"],
-  "speed": ["up to 40 mph"],
-  "age": ["lifespan of 20-30 years in the wild"],
+  "title": "Horse",
+  "visual": ["medium to large size", "herbivorous mammal", "mane and tail"],
+  "about": [
+    "domesticated hoofed mammal",
+    "found worldwide",
+    "herbivorous diet",
+    "lifespan: up to 25-30 years"
+  ],
+  "geolocation": ["worldwide"],
+  "measurement": [
+    "height: up to 4-6 ft",
+    "weight: up to 900-2,200 lbs",
+    "length: up to 8-10 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["grasslands", "savannahs"],
-  "diet": ["herbivorous", "grasses", "leaves"],
-  "predators": ["lions", "hyenas"],
-  "facts": [
-    "distinctive black and white striped coat",
-    "each zebra has a unique stripe pattern",
-    "live in groups called herds",
-    "excellent runners and can zigzag to escape predators"
+  "other": [
+    "domestication for various purposes",
+    "varieties of breeds and colors",
+    "cultural significance and uses in transportation, agriculture, and sports",
+    "conservation efforts to protect wild horse populations"
   ]
 }

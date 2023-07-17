@@ -1,23 +1,19 @@
 {
-  "title": "Duck",
-  "color": ["various colors"],
-  "feature": ["compact body", "webbed feet", "bill"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance", "culinary"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["aquatic", "dabbling or diving feeders", "vocal calls"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["lakes", "ponds", "rivers"],
-  "diet": ["omnivorous", "plants", "insects", "small aquatic animals"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "aquatic birds with a wide variety of species",
-    "adapted for swimming and diving in water",
-    "some species migrate long distances",
-    "play important roles in aquatic ecosystems and seed dispersal"
+  "title": "Domestic pig",
+  "visual": ["medium to large size", "rounded body", "snout"],
+  "about": [
+    "domesticated pig species",
+    "originated from wild boars",
+    "omnivorous diet",
+    "lifespan: up to 10-20 years in captivity"
+  ],
+  "geolocation": ["domesticated"],
+  "measurement": ["height: up to 2-3 ft", "weight: up to 200-500 lbs"],
+  "communication": ["grunting sounds", "body language"],
+  "other": [
+    "domestication for meat production",
+    "variety of breeds with different purposes",
+    "social behavior and hierarchy",
+    "conservation concerns related to preserving heritage breeds"
   ]
 }

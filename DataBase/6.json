@@ -1,23 +1,23 @@
 {
   "title": "Giraffe",
-  "color": ["patchy patterns of orange, brown, and white"],
-  "feature": ["long neck", "long legs", "distinctive coat patterns"],
-  "geolocation": ["Africa"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["height: 14-18 ft", "weight: 1,600-3,000 kg"],
-  "origin": ["Africa"],
-  "special_behavior": ["tallest land animal", "browsing herbivore"],
-  "speed": ["up to 35 mph"],
-  "age": ["lifespan of 25 years in the wild"],
+  "visual": ["tall size", "long neck", "patchy coat patterns"],
+  "about": [
+    "tallest land animal",
+    "found in savannahs and woodlands",
+    "herbivorous diet",
+    "lifespan: up to 20-25 years in the wild"
+  ],
+  "geolocation": ["Africa", "savannahs", "woodlands"],
+  "measurement": [
+    "height: up to 14-18 ft",
+    "weight: up to 1,600-3,000 kg",
+    "length: up to 16-20 ft"
+  ],
   "communication": ["low-frequency vocalizations", "necking (combat)"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["savannahs", "woodlands"],
-  "diet": ["browsing herbivore", "acacia leaves", "other foliage"],
-  "predators": ["lions", "hyenas"],
-  "facts": [
-    "longest neck of any animal, with 7 neck vertebrae",
-    "excellent eyesight and a keen sense of smell",
-    "form loose social groups known as towers",
-    "play an important role in the dispersal of seeds"
+  "other": [
+    "distinctive long neck and legs",
+    "browsing herbivore",
+    "importance in ecosystem balance",
+    "conservation concerns due to habitat loss and poaching"
   ]
 }

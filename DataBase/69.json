@@ -1,27 +1,19 @@
 {
-  "title": "Koala",
-  "color": ["gray", "brown"],
-  "feature": ["arboreal", "eucalyptus diet", "claws"],
-  "geolocation": ["Australia"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on region"],
-  "origin": ["Australia"],
-  "special_behavior": [
-    "tree climbers",
-    "sleeping during the day",
-    "grunting vocalizations"
+  "title": "Spotted hyena",
+  "visual": ["medium to large size", "spotted coat", "powerful build"],
+  "about": [
+    "carnivorous mammal species",
+    "found in Africa",
+    "omnivorous diet",
+    "lifespan: up to 25-30 years in the wild"
   ],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on region"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["eucalyptus forests", "woodlands"],
-  "diet": ["herbivorous", "eucalyptus leaves"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "arboreal marsupials native to Australia",
-    "feed exclusively on eucalyptus leaves",
-    "spend most of their time in trees and sleep for long hours",
-    "play important roles in the health of eucalyptus forests"
+  "geolocation": ["Africa"],
+  "measurement": ["length: up to 4-5 ft", "weight: up to 90-140 lbs"],
+  "communication": ["laughing sounds", "body language"],
+  "other": [
+    "social structure and complex social behaviors",
+    "opportunistic hunting and scavenging",
+    "important role as a top predator in African ecosystems",
+    "conservation concerns related to habitat loss and persecution"
   ]
 }

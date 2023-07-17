@@ -1,27 +1,23 @@
 {
-  "title": "Hippopotamus",
-  "color": ["gray", "brown"],
-  "feature": ["large size", "stocky build", "massive jaws"],
-  "geolocation": ["Africa"],
-  "use": ["ecosystem balance"],
-  "measurement": [
-    "length: 9-15 ft",
-    "height: 4.5-5 ft",
-    "weight: 3,000-4,000 kg"
+  "title": "Plains zebra",
+  "visual": ["medium size", "distinctive black and white stripes", "mane"],
+  "about": [
+    "herbivorous mammal with striped coat",
+    "found in grasslands and savannas",
+    "herbivorous diet",
+    "lifespan: up to 20-25 years in the wild"
   ],
-  "origin": ["Africa"],
-  "special_behavior": ["semi-aquatic", "aggressive", "territorial"],
-  "speed": ["up to 19 mph"],
-  "age": ["lifespan of 40-50 years in the wild"],
+  "geolocation": ["Africa", "grasslands", "savannas"],
+  "measurement": [
+    "height: up to 4-5 ft",
+    "weight: up to 500-700 lbs",
+    "length: up to 7-8 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["rivers", "lakes", "swamps"],
-  "diet": ["herbivorous", "grasses", "aquatic plants"],
-  "predators": ["lions", "crocodiles"],
-  "facts": [
-    "third-largest land mammal",
-    "spend most of their time in water",
-    "have special glands that secrete pink oily substance",
-    "play an important role in aquatic ecosystems"
+  "other": [
+    "distinctive coat pattern for camouflage and social signaling",
+    "social herds and migratory behavior",
+    "prey species and importance in ecosystems",
+    "conservation concerns due to habitat loss and hunting"
   ]
 }

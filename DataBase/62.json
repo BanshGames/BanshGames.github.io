@@ -1,27 +1,19 @@
 {
-  "title": "Walrus",
-  "color": ["brown", "gray"],
-  "feature": ["large size", "tusks", "whiskers"],
-  "geolocation": ["Arctic regions"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Arctic regions"],
-  "special_behavior": [
-    "semi-aquatic",
-    "tusk displays",
-    "roaring vocalizations"
+  "title": "Emu",
+  "visual": ["large size", "long neck", "powerful legs"],
+  "about": [
+    "flightless bird species",
+    "native to Australia",
+    "herbivorous diet",
+    "lifespan: up to 10-20 years in the wild"
   ],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["vulnerable", "endangered"],
-  "habitat": ["Arctic coastal areas", "pack ice"],
-  "diet": ["carnivorous", "clams", "mussels", "other invertebrates"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "large marine mammals known for their impressive tusks",
-    "semi-aquatic animals that spend time both on land and in water",
-    "communicate through a variety of vocalizations and body movements",
-    "face threats due to habitat loss and climate change"
+  "geolocation": ["Australia"],
+  "measurement": ["height: up to 5-6 ft", "weight: up to 90-130 lbs"],
+  "communication": ["booming sounds", "body language"],
+  "other": [
+    "second largest living bird after the ostrich",
+    "adaptations for arid and open habitats",
+    "courtship rituals and male incubation of eggs",
+    "conservation concerns related to habitat loss and introduced predators"
   ]
 }

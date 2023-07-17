@@ -1,27 +1,18 @@
 {
-  "title": "Otter",
-  "color": ["various colors"],
-  "feature": ["carnivorous mammals", "streamlined bodies", "webbed feet"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "semiaquatic",
-    "playful nature",
-    "whistling vocalizations"
+  "title": "Crown-of-thorns starfish",
+  "visual": ["large size", "spiny body", "colorful appearance"],
+  "about": [
+    "starfish species found in coral reefs",
+    "carnivorous diet",
+    "lifespan: up to 10-15 years in the wild"
   ],
-  "speed": ["good swimmers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["aquatic habitats", "rivers", "coastal areas"],
-  "diet": ["carnivorous", "fish", "crustaceans", "small mammals"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "carnivorous mammals known for their streamlined bodies and webbed feet",
-    "semiaquatic animals that spend much of their time in water",
-    "exhibit playful behavior and engage in sliding and diving activities",
-    "found in various aquatic habitats worldwide, from rivers to coastal areas"
+  "geolocation": ["Coral reefs"],
+  "measurement": ["diameter: up to 12-14 inches"],
+  "communication": ["no specific communication"],
+  "other": [
+    "feeding on coral polyps",
+    "population outbreaks and coral reef destruction",
+    "natural predator of coral reefs",
+    "conservation efforts to control population growth"
   ]
 }

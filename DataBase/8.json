@@ -1,23 +1,23 @@
 {
-  "title": "Gorilla",
-  "color": ["black", "dark gray"],
-  "feature": ["large size", "powerful build", "arm span"],
-  "geolocation": ["Africa"],
-  "use": ["ecosystem balance", "conservation"],
-  "measurement": ["height: 4-6 ft", "weight: 300-500 lb"],
-  "origin": ["Africa"],
-  "special_behavior": ["herbivorous", "social", "dominant silverback"],
-  "speed": ["up to 20 mph"],
-  "age": ["lifespan of 35-50 years in the wild"],
-  "communication": ["vocalizations", "chest-beating", "body language"],
-  "conservation_status": ["endangered"],
-  "habitat": ["forests", "mountainous regions"],
-  "diet": ["herbivorous", "leaves", "stems", "fruits"],
-  "predators": ["leopards", "humans (poaching)"],
-  "facts": [
-    "largest primates on Earth",
-    "strong family bonds within groups",
-    "show intelligence and tool use",
-    "play a crucial role in maintaining forest ecosystems"
+  "title": "Tiger",
+  "visual": ["large size", "striking coat pattern", "powerful build"],
+  "about": [
+    "large and powerful feline predator",
+    "found in various habitats",
+    "carnivorous diet",
+    "lifespan: up to 15-20 years in the wild"
+  ],
+  "geolocation": ["Asia", "various habitats"],
+  "measurement": [
+    "height: up to 3-4 ft",
+    "weight: up to 200-670 lbs",
+    "length: up to 7-10 ft"
+  ],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "distinctive coat pattern and color variations",
+    "solitary behavior and territoriality",
+    "importance in ecosystems as top predators",
+    "conservation concerns due to habitat loss and poaching"
   ]
 }

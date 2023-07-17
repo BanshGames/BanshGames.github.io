@@ -1,27 +1,19 @@
 {
-  "title": "Mouse",
-  "color": ["various colors"],
-  "feature": ["small size", "pointed snout", "short tail"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["lab animals", "companion pets"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "nocturnal",
-    "nimble climbers",
-    "squeaking vocalizations"
+  "title": "Bat",
+  "visual": ["various sizes", "winged mammal", "webbed wings"],
+  "about": [
+    "order of flying mammals",
+    "found worldwide in diverse habitats",
+    "insectivorous or frugivorous diet",
+    "lifespan: varies depending on species"
   ],
-  "speed": ["swift runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "fields", "urban areas"],
-  "diet": ["omnivorous", "seeds", "grains", "insects"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "small rodents known for their small size and adaptability",
-    "prolific breeders with short gestation periods",
-    "play important roles in ecosystems as prey for various predators",
-    "used in scientific research and as popular pets"
+  "geolocation": ["global", "various habitats"],
+  "measurement": ["wingspan: varies depending on species"],
+  "communication": ["echolocation", "vocalizations"],
+  "other": [
+    "unique adaptations for flight",
+    "important pollinators and pest controllers",
+    "roosting in caves, trees, or man-made structures",
+    "conservation concerns related to habitat loss and disease"
   ]
 }

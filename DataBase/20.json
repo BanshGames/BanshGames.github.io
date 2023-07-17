@@ -1,23 +1,27 @@
 {
-  "title": "Penguin",
-  "color": ["black", "white"],
-  "feature": ["flightless birds", "webbed feet", "streamlined body"],
-  "geolocation": ["Antarctica", "Southern Hemisphere"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Antarctica", "Southern Hemisphere"],
-  "special_behavior": ["excellent swimmers", "colonial breeders"],
-  "speed": ["up to 20 mph (swimming)"],
-  "age": ["lifespan varies depending on species"],
+  "title": "Killer whale",
+  "visual": [
+    "large size",
+    "distinctive black and white markings",
+    "prominent dorsal fin"
+  ],
+  "about": [
+    "highly intelligent and social marine mammal",
+    "found in oceans and seas",
+    "carnivorous diet",
+    "lifespan: up to 50-80 years in the wild"
+  ],
+  "geolocation": ["global", "oceans", "seas"],
+  "measurement": [
+    "height: up to 6-8 ft",
+    "weight: up to 6,000-12,000 kg",
+    "length: up to 23-32 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "coastal areas", "islands"],
-  "diet": ["carnivorous", "fish", "krill"],
-  "predators": ["seals", "sea lions", "orcas"],
-  "facts": [
-    "well-adapted to life in the water",
-    "many species form large breeding colonies",
-    "some species can dive to great depths",
-    "not found in the Northern Hemisphere"
+  "other": [
+    "top predator in marine ecosystems",
+    "distinctive social structure and family groups",
+    "diverse diet and hunting strategies",
+    "conservation concerns due to captivity and pollution"
   ]
 }

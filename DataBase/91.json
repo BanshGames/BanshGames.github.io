@@ -1,23 +1,18 @@
 {
-  "title": "Raccoon",
-  "color": ["gray", "brown"],
-  "feature": ["small mammals", "distinctive facial mask", "ringed tail"],
-  "geolocation": ["North America", "Central America"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["North America", "Central America"],
-  "special_behavior": ["nocturnal", "omnivorous", "chittering vocalizations"],
-  "speed": ["relatively fast climbers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["least concern"],
-  "habitat": ["various habitats", "forests", "urban areas"],
-  "diet": ["omnivorous", "fruits", "nuts", "insects", "small vertebrates"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "small mammals known for their distinctive facial mask and ringed tail",
-    "adapted to both woodland and urban environments",
-    "highly adaptable and opportunistic omnivores",
-    "play important roles in seed dispersal and insect control"
+  "title": "Wombat",
+  "visual": ["medium size", "stocky build", "rounded head"],
+  "about": [
+    "marsupial species native to Australia",
+    "herbivorous diet",
+    "lifespan: up to 15-20 years in the wild"
+  ],
+  "geolocation": ["Australia"],
+  "measurement": ["length: up to 3-4 ft", "weight: up to 55-80 lbs"],
+  "communication": ["grunting and hissing sounds", "body language"],
+  "other": [
+    "nocturnal and burrowing behavior",
+    "strong and sturdy diggers",
+    "rear-facing pouch for protection",
+    "conservation concerns related to habitat loss and road accidents"
   ]
 }

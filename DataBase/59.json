@@ -1,23 +1,18 @@
 {
-  "title": "Bat",
-  "color": ["various colors"],
-  "feature": ["winged mammals", "webbed wings", "echolocation"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance", "pollination"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["nocturnal", "flights", "echolocation calls"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["echolocation calls", "vocalizations"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "caves", "trees"],
-  "diet": ["varies depending on species", "insects", "fruits", "nectar"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "only mammals capable of sustained flight",
-    "adapted wings for flight and echolocation for navigation",
-    "play important roles in pollination and insect control",
-    "diverse species found in various habitats worldwide"
+  "title": "Nine-banded armadillo",
+  "visual": ["medium size", "armored shell", "long snout"],
+  "about": [
+    "armadillo species found in the Americas",
+    "insectivorous diet",
+    "lifespan: up to 10-15 years in the wild"
+  ],
+  "geolocation": ["Americas"],
+  "measurement": ["length: up to 20-25 inches", "weight: up to 8-17 lbs"],
+  "communication": ["grunting sounds", "body language"],
+  "other": [
+    "unique protective shell and digging abilities",
+    "nocturnal and solitary behavior",
+    "adaptations for a wide range of habitats",
+    "conservation concerns related to habitat fragmentation and road mortality"
   ]
 }

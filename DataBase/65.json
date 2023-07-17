@@ -1,23 +1,19 @@
 {
-  "title": "Antelope",
-  "color": ["various colors"],
-  "feature": ["hooves", "horns", "graceful runners"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["herbivorous", "fast runners", "grazing behavior"],
-  "speed": ["fast runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "grasslands", "savannas"],
-  "diet": ["herbivorous", "grasses", "leaves", "shrubs"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "graceful and agile ungulates known for their speed",
-    "herbivorous animals adapted for grazing on grasses",
-    "various species found in different habitats worldwide",
-    "play important roles in maintaining ecosystem balance"
+  "title": "Meerkat",
+  "visual": ["small size", "slender body", "alert posture"],
+  "about": [
+    "small mongoose species",
+    "native to the Kalahari Desert",
+    "omnivorous diet",
+    "lifespan: up to 10-12 years in the wild"
+  ],
+  "geolocation": ["Kalahari Desert"],
+  "measurement": ["length: up to 10-14 inches", "weight: up to 1-2 lbs"],
+  "communication": ["barking sounds", "body language"],
+  "other": [
+    "highly social and cooperative behavior",
+    "burrow-dwelling and sentinel duties",
+    "importance in predator-prey dynamics",
+    "conservation concerns related to habitat fragmentation and disease"
   ]
 }

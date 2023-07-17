@@ -1,23 +1,23 @@
 {
-  "title": "Cheetah",
-  "color": ["tan", "black spots"],
-  "feature": ["slender body", "distinctive black tear stripes"],
-  "geolocation": ["Africa", "Iran"],
-  "use": ["ecosystem balance"],
-  "measurement": ["length: 3.5-4.5 ft", "height: 2-3 ft", "weight: 75-140 lb"],
-  "origin": ["Africa", "Iran"],
-  "special_behavior": ["fastest land animal", "sprint hunting"],
-  "speed": ["up to 60-70 mph"],
-  "age": ["lifespan of 10-12 years in the wild"],
+  "title": "Eastern grey kangaroo",
+  "visual": ["large size", "powerful hind legs", "grey fur"],
+  "about": [
+    "large marsupial known for hopping",
+    "found in grasslands and forests",
+    "herbivorous diet",
+    "lifespan: up to 15-20 years in the wild"
+  ],
+  "geolocation": ["Australia", "grasslands", "forests"],
+  "measurement": [
+    "height: up to 5-6 ft",
+    "weight: up to 100-150 lbs",
+    "length: up to 6-7 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["open grasslands", "savannahs"],
-  "diet": ["carnivorous", "prey on small to medium-sized ungulates"],
-  "predators": ["lions", "hyenas"],
-  "facts": [
-    "known for their incredible speed and agility",
-    "unique hunting technique using bursts of speed",
-    "can accelerate from 0 to 60 mph in a few seconds",
-    "face various threats, including habitat loss and poaching"
+  "other": [
+    "distinctive hopping locomotion and muscular hind legs",
+    "social behavior and mob structure",
+    "importance in ecosystems as a grazer",
+    "conservation concerns due to habitat loss and hunting"
   ]
 }

@@ -1,23 +1,18 @@
 {
-  "title": "Bison",
-  "color": ["brown", "dark brown"],
-  "feature": ["large mammals", "muscular build", "curved horns"],
-  "geolocation": ["North America", "Europe"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["North America", "Europe"],
-  "special_behavior": ["herbivorous", "grazers", "bellowing vocalizations"],
-  "speed": ["fast runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["near threatened", "vulnerable"],
-  "habitat": ["grasslands", "prairies"],
-  "diet": ["herbivorous", "grasses", "plants"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "large mammals with a muscular build and curved horns",
-    "grazing herbivores that once roamed the vast grasslands of North America",
-    "considered a symbol of the American West",
-    "face conservation challenges due to habitat loss and hunting"
+  "title": "African wild ass",
+  "visual": ["medium size", "short and slender body", "striped legs"],
+  "about": [
+    "wild equid species native to Africa",
+    "herbivorous diet",
+    "lifespan: up to 20-25 years in the wild"
+  ],
+  "geolocation": ["Africa"],
+  "measurement": ["height: up to 4-5 ft", "weight: up to 500-600 lbs"],
+  "communication": ["braying sounds", "body language"],
+  "other": [
+    "adapted to arid and desert environments",
+    "social structure and small family groups",
+    "importance as a keystone species in desert ecosystems",
+    "conservation concerns related to habitat loss and hybridization"
   ]
 }

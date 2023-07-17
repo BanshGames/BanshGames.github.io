@@ -1,27 +1,19 @@
 {
-  "title": "Crocodile",
-  "color": ["various colors"],
-  "feature": ["large size", "long snout", "powerful jaws"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "semiaquatic",
-    "ambush predators",
-    "sensitive to temperature"
+  "title": "Eurasian eagle-owl",
+  "visual": ["large size", "distinctive facial disk", "prominent ear tufts"],
+  "about": [
+    "large owl species",
+    "found in Europe, Asia, and parts of Africa",
+    "carnivorous diet",
+    "lifespan: up to 20-30 years in the wild"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
+  "geolocation": ["Europe", "Asia", "Africa"],
+  "measurement": ["height: up to 2-3 ft", "wingspan: up to 5-6 ft"],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "rivers", "swamps"],
-  "diet": ["carnivorous", "fish", "mammals", "reptiles"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "large and powerful reptiles adapted to aquatic environments",
-    "known for their formidable jaws and ability to ambush prey",
-    "some species can reach massive sizes",
-    "important apex predators in their habitats"
+  "other": [
+    "nocturnal predator with excellent hearing",
+    "adaptations for silent flight and hunting",
+    "nesting in trees and rocky outcrops",
+    "conservation concerns related to habitat loss and persecution"
   ]
 }

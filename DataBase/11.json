@@ -1,27 +1,23 @@
 {
-  "title": "Rhino",
-  "color": ["gray", "brown"],
-  "feature": ["large size", "thick skin", "two horns"],
-  "geolocation": ["Africa", "Asia"],
-  "use": ["ecosystem balance", "conservation"],
-  "measurement": [
-    "length: 10-13 ft",
-    "height: 5-6 ft",
-    "weight: 1,500-3,000 kg"
+  "title": "Hippopotamus",
+  "visual": ["large size", "thick skin", "massive jaws"],
+  "about": [
+    "large semi-aquatic mammal",
+    "found in rivers and lakes",
+    "herbivorous diet",
+    "lifespan: up to 40-50 years in the wild"
   ],
-  "origin": ["Africa", "Asia"],
-  "special_behavior": ["herbivorous", "solitary"],
-  "speed": ["up to 30-40 mph"],
-  "age": ["lifespan of 35-50 years in the wild"],
+  "geolocation": ["Africa", "rivers", "lakes"],
+  "measurement": [
+    "height: up to 4-5 ft",
+    "weight: up to 3,000-4,000 kg",
+    "length: up to 13-16 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["grasslands", "savannahs"],
-  "diet": ["herbivorous", "grasses", "leaves", "shoots"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "have distinctive horns made of keratin",
-    "excellent sense of smell",
-    "heavy and powerful animals",
-    "highly threatened by poaching and habitat loss"
+  "other": [
+    "semi-aquatic lifestyle and adaptations for swimming",
+    "territorial and aggressive behavior",
+    "ecological role in shaping river habitats",
+    "conservation concerns due to habitat loss and hunting"
   ]
 }

@@ -1,23 +1,18 @@
 {
-  "title": "Chimpanzee",
-  "color": ["black", "brown"],
-  "feature": ["great apes", "long arms", "opposable thumbs"],
-  "geolocation": ["Central and West Africa"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on subspecies"],
-  "origin": ["Central and West Africa"],
-  "special_behavior": ["intelligent", "tool use", "complex social structures"],
-  "speed": ["agile climbers", "fast runners"],
-  "age": ["lifespan varies depending on subspecies"],
-  "communication": ["vocalizations", "gestures"],
-  "conservation_status": ["endangered", "critically endangered"],
-  "habitat": ["various habitats", "forests", "woodlands"],
-  "diet": ["omnivorous", "fruits", "leaves", "insects"],
-  "predators": ["varies depending on region"],
-  "facts": [
-    "close relatives of humans and bonobos",
-    "known for their intelligence and complex behaviors",
-    "exhibit tool use, communication, and social interactions",
-    "face threats from habitat loss and illegal wildlife trade"
+  "title": "Common caiman",
+  "visual": ["medium size", "reptile with armored body", "long snout"],
+  "about": [
+    "crocodilian species found in Central and South America",
+    "carnivorous diet",
+    "lifespan: up to 30-40 years in the wild"
+  ],
+  "geolocation": ["Central America", "South America"],
+  "measurement": ["length: up to 6-8 ft", "weight: up to 50-100 lbs"],
+  "communication": ["hissing sounds", "body language"],
+  "other": [
+    "semi-aquatic and territorial behavior",
+    "importance in aquatic ecosystems",
+    "conservation concerns related to habitat loss and illegal hunting",
+    "protected species in many countries"
   ]
 }

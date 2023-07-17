@@ -1,23 +1,19 @@
 {
-  "title": "Cow",
-  "color": ["various colors"],
-  "feature": ["large size", "four-chambered stomach", "horns (in some breeds)"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["food", "milk", "leather"],
-  "measurement": ["size varies depending on breed"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["herd animals", "chewing cud", "mooing vocalizations"],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on breed"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["not applicable (domesticated species)"],
-  "habitat": ["farm settings", "grazing lands"],
-  "diet": ["herbivorous", "grasses", "hay", "silage"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "domesticated herbivorous mammals",
-    "raised for meat, milk, and other products",
-    "form social groups within herds",
-    "chew cud as part of their unique digestive system"
+  "title": "European hare",
+  "visual": ["medium size", "long ears", "powerful hind legs"],
+  "about": [
+    "large hare species",
+    "native to Europe and parts of Asia",
+    "herbivorous diet",
+    "lifespan: up to 4-6 years in the wild"
+  ],
+  "geolocation": ["Europe", "Asia"],
+  "measurement": ["length: up to 20-27 inches", "weight: up to 8-13 lbs"],
+  "communication": ["whining sounds", "body language"],
+  "other": [
+    "fast-running and agile for escape",
+    "solitary or social behavior depending on population density",
+    "important prey species for predators",
+    "conservation concerns related to habitat loss and hunting"
   ]
 }

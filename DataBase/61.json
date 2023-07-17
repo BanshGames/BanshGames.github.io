@@ -1,27 +1,19 @@
 {
-  "title": "Seal",
-  "color": ["various colors"],
-  "feature": ["aquatic mammals", "blubber", "flippers"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "excellent swimmers",
-    "graceful movements",
-    "barking vocalizations"
+  "title": "Ostrich",
+  "visual": ["large size", "long neck", "powerful legs"],
+  "about": [
+    "flightless bird species",
+    "native to Africa",
+    "omnivorous diet",
+    "lifespan: up to 30-40 years in the wild"
   ],
-  "speed": ["swift swimmers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["coastal areas", "ice floes"],
-  "diet": ["carnivorous", "fish", "crustaceans", "squid"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "aquatic mammals with streamlined bodies and flippers",
-    "adapted for swimming and diving in marine environments",
-    "rely on blubber for insulation and energy storage",
-    "play important roles in marine ecosystems and food webs"
+  "geolocation": ["Africa"],
+  "measurement": ["height: up to 6-9 ft", "weight: up to 200-300 lbs"],
+  "communication": ["booming sounds", "body language"],
+  "other": [
+    "fastest running bird and largest living bird",
+    "social structure and mating behavior",
+    "importance in African savannah ecosystems",
+    "conservation concerns related to habitat degradation and poaching"
   ]
 }

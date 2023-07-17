@@ -1,27 +1,18 @@
 {
-  "title": "Hedgehog",
-  "color": ["various colors"],
-  "feature": ["spiny coat", "pointed snout", "nocturnal"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["companion pets", "pest control"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "defensive behavior",
-    "rolling into a ball",
-    "grunting vocalizations"
+  "title": "Brown-throated three-toed sloth",
+  "visual": ["small to medium size", "long limbs", "claws"],
+  "about": [
+    "sloth species found in Central and South America",
+    "herbivorous diet",
+    "lifespan: up to 20-30 years in the wild"
   ],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "forests", "grasslands"],
-  "diet": ["omnivorous", "insects", "small vertebrates", "plants"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "small mammals known for their spiky spines",
-    "adapted for defense by rolling into a protective ball",
-    "nocturnal creatures with good sense of smell",
-    "popular as unique and low-maintenance pets"
+  "geolocation": ["Central America", "South America"],
+  "measurement": ["length: up to 20-30 inches", "weight: up to 8-10 lbs"],
+  "communication": ["soft vocalizations", "body language"],
+  "other": [
+    "slow-moving and arboreal lifestyle",
+    "specialized adaptations for hanging and climbing",
+    "importance in tropical rainforest ecosystems",
+    "conservation concerns related to habitat loss and illegal pet trade"
   ]
 }

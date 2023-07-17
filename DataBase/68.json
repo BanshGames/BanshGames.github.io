@@ -1,27 +1,18 @@
 {
-  "title": "Camel",
-  "color": ["various colors"],
-  "feature": ["humped back", "long neck", "adapted to arid environments"],
-  "geolocation": ["Arabian Peninsula", "Asia", "Africa"],
-  "use": ["transportation", "milk", "meat"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Arabian Peninsula", "Asia", "Africa"],
-  "special_behavior": [
-    "desert adaptations",
-    "water storage",
-    "grunting vocalizations"
+  "title": "American bison",
+  "visual": ["large size", "massive build", "shaggy coat"],
+  "about": [
+    "ungulate species native to North America",
+    "herbivorous diet",
+    "lifespan: up to 15-20 years in the wild"
   ],
-  "speed": ["relatively fast walkers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["least concern"],
-  "habitat": ["arid regions", "deserts"],
-  "diet": ["herbivorous", "grasses", "plants"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "large mammals known for their humped back and ability to survive in arid environments",
-    "adapted to store water and withstand extreme temperatures",
-    "valued for their transportation, milk, meat, and wool",
-    "found in desert regions across the Arabian Peninsula, Asia, and Africa"
+  "geolocation": ["North America"],
+  "measurement": ["height: up to 5-6 ft", "weight: up to 900-2,000 lbs"],
+  "communication": ["rumbling sounds", "body language"],
+  "other": [
+    "social behavior and herding",
+    "iconic symbol of the American West",
+    "ecological role as a keystone species",
+    "conservation concerns related to habitat loss and genetic diversity"
   ]
 }

@@ -1,23 +1,19 @@
 {
-  "title": "Pig",
-  "color": ["various colors"],
-  "feature": ["rotund body", "snout", "bristly hair"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["food", "livestock"],
-  "measurement": ["size varies depending on breed"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["omnivorous", "social", "grunting vocalizations"],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on breed"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["not applicable (domesticated species)"],
-  "habitat": ["farm settings", "pens"],
-  "diet": ["omnivorous", "plants", "insects", "scraps"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "domesticated mammals known for their intelligence",
-    "raised for meat and other products",
-    "omnivorous, feeding on a variety of plant and animal matter",
-    "display social behaviors within groups or sounders"
+  "title": "House mouse",
+  "visual": ["small size", "gray or brown fur", "pointed snout"],
+  "about": [
+    "small rodent species",
+    "found worldwide in human habitats",
+    "omnivorous diet",
+    "lifespan: up to 1-2 years in the wild"
+  ],
+  "geolocation": ["global", "human habitats"],
+  "measurement": ["length: up to 2.5-4 inches", "weight: up to 0.5-1 oz"],
+  "communication": ["squeaking sounds", "body language"],
+  "other": [
+    "rapid reproduction and adaptability to various environments",
+    "social behavior and territoriality",
+    "important research model organism",
+    "conservation concerns related to habitat loss and competition with rats"
   ]
 }

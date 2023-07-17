@@ -1,23 +1,19 @@
 {
-  "title": "Lemur",
-  "color": ["various colors"],
-  "feature": ["primates", "striking eyes", "long tails"],
-  "geolocation": ["Madagascar"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Madagascar"],
-  "special_behavior": ["arboreal", "nocturnal", "distinct vocalizations"],
-  "speed": ["agile climbers", "fast runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["rainforests", "dry forests"],
-  "diet": ["omnivorous", "fruits", "insects", "leaves"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "primates endemic to Madagascar",
-    "known for their striking eyes and long, bushy tails",
-    "diverse species with varying behaviors and habitats",
-    "play important roles in pollination and seed dispersal"
+  "title": "Tarantula",
+  "visual": ["large size", "hairy body", "eight legs"],
+  "about": [
+    "spider family with various species",
+    "found in different regions worldwide",
+    "carnivorous diet",
+    "lifespan: varies depending on species"
+  ],
+  "geolocation": ["global", "various habitats"],
+  "measurement": ["size: varies depending on species"],
+  "communication": ["vibrations and body language"],
+  "other": [
+    "burrowing and nocturnal behavior",
+    "venomous fangs and silk-spinning abilities",
+    "diversity in appearance and habitat preferences",
+    "conservation concerns related to habitat loss and collection"
   ]
 }

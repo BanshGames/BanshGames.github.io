@@ -1,27 +1,19 @@
 {
-  "title": "Hyena",
-  "color": ["varies depending on species"],
-  "feature": ["carnivorous mammals", "strong jaws", "distinctive laughs"],
-  "geolocation": ["Africa", "Asia"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Africa", "Asia"],
-  "special_behavior": [
-    "social animals",
-    "opportunistic hunters",
-    "vocalizations"
+  "title": "Shrimp",
+  "visual": ["small to medium size", "elongated body", "long antennae"],
+  "about": [
+    "crustacean family with various species",
+    "found in marine and freshwater habitats",
+    "omnivorous or detritivorous diet",
+    "lifespan: varies depending on species"
   ],
-  "speed": ["fast runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "savannas", "forests"],
-  "diet": ["carnivorous", "scavengers", "hunters"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "carnivorous mammals known for their distinctive laughs",
-    "have strong jaws and powerful bite forces",
-    "play important roles as scavengers and hunters",
-    "found in various habitats across Africa and Asia"
+  "geolocation": ["global", "various aquatic habitats"],
+  "measurement": ["size: varies depending on species"],
+  "communication": ["chemical signals and body language"],
+  "other": [
+    "highly diverse group with numerous commercial species",
+    "important in aquatic food chains",
+    "various forms of locomotion, from swimming to crawling",
+    "conservation concerns related to overfishing and habitat degradation"
   ]
 }

@@ -1,23 +1,19 @@
 {
-  "title": "Goat",
-  "color": ["various colors"],
-  "feature": ["horns", "beard", "hooves"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["milk", "meat", "fiber"],
-  "measurement": ["size varies depending on breed"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["herbivorous", "climbers", "bleating vocalizations"],
-  "speed": ["relatively agile"],
-  "age": ["lifespan varies depending on breed"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["not applicable (domesticated species)"],
-  "habitat": ["various habitats", "pastures", "mountains"],
-  "diet": ["herbivorous", "grasses", "leaves", "vegetation"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "domesticated mammals known for their versatility",
-    "raised for milk, meat, and fiber",
-    "excellent climbers with strong agility",
-    "play important roles in agriculture and sustainable land management"
+  "title": "Golden hamster",
+  "visual": ["small size", "plump body", "short legs"],
+  "about": [
+    "small rodent species",
+    "originated from the Syrian desert",
+    "omnivorous diet",
+    "lifespan: up to 2-3 years in captivity"
+  ],
+  "geolocation": ["Syrian desert"],
+  "measurement": ["length: up to 5-7 inches", "weight: up to 4-5 oz"],
+  "communication": ["squeaking sounds", "body language"],
+  "other": [
+    "nocturnal and burrowing behavior",
+    "solitary or social depending on captivity",
+    "popular pet and research animal",
+    "conservation concerns related to habitat loss and inbreeding"
   ]
 }

@@ -1,23 +1,19 @@
 {
-  "title": "Jellyfish",
-  "color": ["various colors"],
-  "feature": ["gelatinous body", "tentacles", "stinging cells"],
-  "geolocation": ["oceans", "seas"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["oceans", "seas"],
-  "special_behavior": ["floating and drifting", "predatory"],
-  "speed": ["drift with currents"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["limited communication abilities"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["oceans", "seas"],
-  "diet": ["carnivorous", "small plankton", "fish eggs"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "free-swimming marine animals without a brain or heart",
-    "range in size from tiny to large with trailing tentacles",
-    "have stinging cells for capturing prey",
-    "important part of the marine food web"
+  "title": "Ball python",
+  "visual": ["medium size", "patterned scales", "coil-like posture"],
+  "about": [
+    "non-venomous snake species",
+    "found in sub-Saharan Africa",
+    "carnivorous diet",
+    "lifespan: up to 20-30 years"
+  ],
+  "geolocation": ["Sub-Saharan Africa"],
+  "measurement": ["length: up to 3-5 ft"],
+  "communication": ["body language"],
+  "other": [
+    "popular pet snake",
+    "nocturnal and secretive behavior",
+    "unique defensive behavior of coiling into a ball",
+    "conservation concerns related to habitat loss and illegal trade"
   ]
 }

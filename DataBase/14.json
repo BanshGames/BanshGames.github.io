@@ -1,23 +1,23 @@
 {
-  "title": "Fox",
-  "color": ["red", "gray", "brown"],
-  "feature": ["small to medium size", "pointed ears", "bushy tail"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["length: 2.5-4 ft", "height: 1-2 ft", "weight: 6-30 lb"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["omnivorous", "nocturnal", "adaptability"],
-  "speed": ["up to 30 mph"],
-  "age": ["lifespan of 2-5 years in the wild"],
+  "title": "Rhesus macaque",
+  "visual": ["medium size", "long tail", "pale face"],
+  "about": [
+    "medium-sized Old World monkey",
+    "found in diverse habitats",
+    "omnivorous diet",
+    "lifespan: up to 20-25 years in the wild"
+  ],
+  "geolocation": ["Asia", "various habitats"],
+  "measurement": [
+    "height: up to 1-2 ft",
+    "weight: up to 10-20 lbs",
+    "length: up to 1-2 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["least concern"],
-  "habitat": ["varies depending on species", "forests", "grasslands"],
-  "diet": ["omnivorous", "small mammals", "birds", "insects", "fruits"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "known for their intelligence and cunning",
-    "adapt well to urban environments",
-    "exhibit a wide range of vocalizations",
-    "important in controlling rodent populations"
+  "other": [
+    "highly adaptable and widely distributed species",
+    "social hierarchy and complex social behaviors",
+    "cultural and scientific significance",
+    "conservation concerns due to habitat loss and hunting"
   ]
 }

@@ -1,23 +1,19 @@
 {
-  "title": "Frog",
-  "color": ["various colors"],
-  "feature": ["amphibious", "webbed feet", "long hind legs"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["insect control"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["jumping", "metamorphosis", "vocalizations"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
+  "title": "Crocodile",
+  "visual": ["large size", "scaly skin", "long snout"],
+  "about": [
+    "reptile species with a semi-aquatic lifestyle",
+    "found in tropical and subtropical regions",
+    "carnivorous diet",
+    "lifespan: up to 70-100 years"
+  ],
+  "geolocation": ["global", "tropical regions", "subtropical regions"],
+  "measurement": ["length: up to 13-20 ft", "weight: up to 1,000-2,000 lbs"],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "ponds", "forests"],
-  "diet": ["carnivorous", "insects", "small invertebrates"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "amphibians known for their unique life cycle",
-    "undergo metamorphosis from tadpole to adult",
-    "some species have toxic skin secretions",
-    "important bioindicators of environmental health"
+  "other": [
+    "top predator in aquatic ecosystems",
+    "adaptations for swimming, hunting, and ambush",
+    "unique nesting behavior and parental care",
+    "conservation concerns related to habitat loss and poaching"
   ]
 }

@@ -1,23 +1,23 @@
 {
-  "title": "Whale",
-  "color": ["various colors"],
-  "feature": ["massive size", "blowhole", "flukes"],
-  "geolocation": ["oceans"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["length: varies depending on species"],
-  "origin": ["oceans"],
-  "special_behavior": ["filter feeders", "migratory", "sing complex songs"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["oceans"],
-  "diet": ["varies depending on species", "krill", "small fish", "plankton"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "largest animals on Earth",
-    "many species undertake long-distance migrations",
-    "produce complex songs and sounds for communication",
-    "play a critical role in marine ecosystems"
+  "title": "Great white shark",
+  "visual": ["large size", "sleek body", "sharp teeth"],
+  "about": [
+    "large predatory shark species",
+    "found in coastal and open waters",
+    "carnivorous diet",
+    "lifespan: up to 30-40 years in the wild"
+  ],
+  "geolocation": ["coastal waters", "open waters"],
+  "measurement": [
+    "height: up to 6-8 ft",
+    "weight: up to 2,000-3,000 lbs",
+    "length: up to 15-20 ft"
+  ],
+  "communication": ["body language"],
+  "other": [
+    "apex predator and top marine predator",
+    "powerful swimming and hunting abilities",
+    "importance in marine ecosystems as a keystone species",
+    "conservation concerns due to overfishing and habitat degradation"
   ]
 }

@@ -1,27 +1,22 @@
 {
-  "title": "Tapir",
-  "color": ["black", "brown", "gray"],
-  "feature": ["odd-toed ungulates", "long snout", "prehensile nose"],
-  "geolocation": ["Central and South America", "Southeast Asia"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Central and South America", "Southeast Asia"],
-  "special_behavior": [
-    "herbivorous",
-    "excellent swimmers",
-    "distinct vocalizations"
+  "title": "Leopard",
+  "visual": [
+    "medium to large size",
+    "rosette-patterned coat",
+    "powerful build"
   ],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "forests", "grasslands"],
-  "diet": ["herbivorous", "leaves", "fruits", "tender shoots"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "odd-toed ungulates with a unique long snout and prehensile nose",
-    "excellent swimmers and often found near water bodies",
-    "important seed dispersers in their habitats",
-    "face threats due to habitat loss and illegal hunting"
+  "about": [
+    "big cat species found in Africa and Asia",
+    "carnivorous diet",
+    "lifespan: up to 12-15 years in the wild"
+  ],
+  "geolocation": ["Africa", "Asia"],
+  "measurement": ["length: up to 4-6 ft", "weight: up to 70-150 lbs"],
+  "communication": ["roaring sounds", "body language"],
+  "other": [
+    "solitary and elusive behavior",
+    "excellent climbers and swimmers",
+    "adaptations for stealthy hunting",
+    "conservation concerns related to habitat loss and illegal hunting"
   ]
 }

@@ -1,23 +1,18 @@
 {
-  "title": "Oyster",
-  "color": ["various colors"],
-  "feature": ["bivalve mollusks", "hard shells", "filter feeders"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["food"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["aquatic", "sessile", "filter feeding"],
-  "speed": ["immobile"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["chemical signals"],
-  "conservation_status": ["not evaluated"],
-  "habitat": ["aquatic habitats", "oceans", "estuaries"],
-  "diet": ["filter feeders", "plankton", "organic particles"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "bivalve mollusks with hard shells and a sessile lifestyle",
-    "found in various marine habitats worldwide, including oceans and estuaries",
-    "filter feeders that play a crucial role in improving water quality",
-    "highly valued as a culinary delicacy in many cultures"
+  "title": "Turkey vulture",
+  "visual": ["large size", "bald red head", "dark feathers"],
+  "about": [
+    "bird species found in the Americas",
+    "scavenging carrion diet",
+    "lifespan: up to 15-20 years in the wild"
+  ],
+  "geolocation": ["Americas"],
+  "measurement": ["wingspan: up to 5-6 ft", "weight: up to 4-5 lbs"],
+  "communication": ["hissing and grunting sounds", "body language"],
+  "other": [
+    "excellent soaring abilities",
+    "important role as a scavenger in ecosystems",
+    "efficiency in locating carrion through olfactory senses",
+    "conservation concerns related to habitat loss and poisoning"
   ]
 }

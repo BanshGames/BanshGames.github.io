@@ -1,27 +1,19 @@
 {
-  "title": "Owl",
-  "color": ["various colors"],
-  "feature": ["nocturnal", "rounded head", "silent flight"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance", "pest control"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "nocturnal predators",
-    "excellent hearing",
-    "camouflage abilities"
+  "title": "Greater flamingo",
+  "visual": ["tall and slender", "pink plumage", "long neck and legs"],
+  "about": [
+    "large wading bird species",
+    "found in Africa, Europe, and Asia",
+    "omnivorous diet",
+    "lifespan: up to 20-30 years in the wild"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
+  "geolocation": ["Africa", "Europe", "Asia"],
+  "measurement": ["height: up to 3-4 ft", "weight: up to 6-9 lbs"],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "forests", "grasslands"],
-  "diet": ["carnivorous", "small mammals", "birds", "insects"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "nocturnal birds of prey known for their silent flight",
-    "adapted to hunting in low light conditions",
-    "have specialized feathers for noise reduction during flight",
-    "play important roles in controlling rodent populations"
+  "other": [
+    "distinctive feeding behavior and filter-feeding adaptations",
+    "colony nesting and social interactions",
+    "conservation concerns related to habitat loss and pollution",
+    "symbol of beauty and grace"
   ]
 }

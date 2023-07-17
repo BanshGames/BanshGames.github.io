@@ -1,26 +1,23 @@
 {
-  "title": "Tiger",
-  "color": ["orange", "black", "white"],
-  "feature": ["striking pattern", "carnivorous"],
-  "geolocation": ["Asia"],
-  "use": ["ecosystem balance", "conservation"],
-  "measurement": [
-    "length: varies depending on species",
-    "weight: varies depending on species"
+  "title": "Cheetah",
+  "visual": ["medium size", "spotted coat", "slender body"],
+  "about": [
+    "fastest land animal",
+    "found in grasslands and savannas",
+    "carnivorous diet",
+    "lifespan: up to 10-12 years in the wild"
   ],
-  "origin": ["Asia"],
-  "special_behavior": ["solitary", "powerful hunter"],
-  "speed": ["up to 40 mph"],
-  "age": ["lifespan of 10-15 years in the wild"],
+  "geolocation": ["Africa", "Iran", "grasslands", "savannas"],
+  "measurement": [
+    "height: up to 2-3 ft",
+    "weight: up to 70-140 lbs",
+    "length: up to 4-5 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["endangered"],
-  "habitat": ["forests", "grasslands", "swamps"],
-  "diet": ["carnivorous", "prey on ungulates"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "largest cat species in the world",
-    "distinctive coat patterns for camouflage",
-    "excellent swimmers",
-    "play a crucial role in maintaining ecosystem balance"
+  "other": [
+    "speed and agility for hunting",
+    "unique adaptations for sprinting",
+    "vulnerable conservation status",
+    "conservation efforts to protect habitats and reduce conflicts"
   ]
 }

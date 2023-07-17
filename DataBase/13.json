@@ -1,27 +1,23 @@
 {
-  "title": "Wolf",
-  "color": ["gray", "brown", "black", "white"],
-  "feature": ["keen senses", "sharp teeth", "strong pack behavior"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": [
-    "length: 4.5-6.5 ft",
-    "height: 2.5-3 ft",
-    "weight: 40-175 lb"
+  "title": "Gorilla",
+  "visual": ["large size", "muscular build", "dark fur"],
+  "about": [
+    "large primate known for its strength",
+    "found in forests and mountains",
+    "herbivorous diet",
+    "lifespan: up to 35-40 years in the wild"
   ],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["social", "territorial", "howling communication"],
-  "speed": ["up to 35 mph"],
-  "age": ["lifespan varies depending on species"],
+  "geolocation": ["Africa", "forests", "mountains"],
+  "measurement": [
+    "height: up to 5-6 ft",
+    "weight: up to 150-400 lbs",
+    "length: up to 5-6 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "forests", "grasslands"],
-  "diet": ["carnivorous", "primarily ungulates"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "highly adaptable and intelligent",
-    "form strong social bonds within packs",
-    "efficient hunters with excellent teamwork",
-    "important ecological role as apex predators"
+  "other": [
+    "social and family-oriented behavior",
+    "distinctive male silverback and group dynamics",
+    "importance in ecosystems as a seed disperser",
+    "conservation concerns due to habitat loss and poaching"
   ]
 }

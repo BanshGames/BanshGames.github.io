@@ -1,23 +1,23 @@
 {
-  "title": "Monkey",
-  "color": ["various colors"],
-  "feature": ["arboreal", "tail", "grasping hands and feet"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["highly agile", "social", "tool use"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "facial expressions", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "forests", "jungles"],
-  "diet": ["omnivorous", "fruits", "insects", "leaves"],
-  "predators": ["varies depending on location and species"],
-  "facts": [
-    "wide variety of species with diverse behaviors",
-    "exhibit complex social structures",
-    "known for their agility and ability to climb",
-    "play an important role in seed dispersal"
+  "title": "Brown bear",
+  "visual": ["large size", "shaggy fur", "prominent shoulder hump"],
+  "about": [
+    "large and powerful bear species",
+    "found in various habitats",
+    "omnivorous diet",
+    "lifespan: up to 20-30 years in the wild"
+  ],
+  "geolocation": ["North America", "Eurasia", "various habitats"],
+  "measurement": [
+    "height: up to 3-4 ft",
+    "weight: up to 200-1,400 lbs",
+    "length: up to 5-8 ft"
+  ],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "adaptations for hibernation",
+    "omnivorous feeding behavior",
+    "importance in ecosystems as keystone species",
+    "conservation efforts to protect habitats and reduce conflicts"
   ]
 }

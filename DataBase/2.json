@@ -1,23 +1,23 @@
 {
-  "title": "Cat",
-  "color": ["various colors"],
-  "feature": ["feline", "graceful", "independent"],
-  "geolocation": ["worldwide"],
-  "use": ["companion", "pest control"],
-  "measurement": ["size varies depending on breed"],
-  "origin": ["worldwide"],
-  "special_behavior": ["agile", "self-grooming", "purring"],
-  "speed": ["varies depending on breed"],
-  "age": ["lifespan varies depending on breed"],
-  "communication": ["meowing", "purring", "body language"],
-  "conservation_status": ["not applicable"],
-  "habitat": ["domesticated"],
-  "diet": ["carnivorous"],
-  "predators": ["varies depending on location"],
-  "facts": [
-    "one of the most popular pets worldwide",
-    "known for their independence and hunting skills",
-    "have retractable claws",
-    "exhibit a wide range of behaviors and personalities"
+  "title": "Lion",
+  "visual": ["large size", "feline", "mane"],
+  "about": [
+    "large and social feline predator",
+    "found in grasslands and savannas",
+    "carnivorous diet",
+    "lifespan: up to 10-14 years in the wild"
+  ],
+  "geolocation": ["Africa", "Asia", "grasslands", "savannas"],
+  "measurement": [
+    "height: up to 3-4 ft",
+    "weight: up to 250-420 lbs",
+    "length: up to 6-8 ft"
+  ],
+  "communication": ["roaring", "body language"],
+  "other": [
+    "pride structure and cooperative hunting",
+    "top predator in its habitat",
+    "symbol of strength and royalty",
+    "conservation concerns due to habitat loss and poaching"
   ]
 }

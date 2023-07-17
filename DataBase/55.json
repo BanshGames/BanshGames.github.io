@@ -1,27 +1,19 @@
 {
-  "title": "Rat",
-  "color": ["various colors"],
-  "feature": ["small to medium size", "long tail", "pointed snout"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["lab animals", "pest control"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "nocturnal",
-    "excellent climbers",
-    "squeaking vocalizations"
+  "title": "North American river otter",
+  "visual": ["medium size", "slender body", "webbed feet"],
+  "about": [
+    "aquatic mammal species",
+    "found in North America",
+    "carnivorous diet",
+    "lifespan: up to 10-15 years in the wild"
   ],
-  "speed": ["swift runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "urban areas", "sewers"],
-  "diet": ["omnivorous", "seeds", "grains", "insects"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "small to medium-sized rodents known for their adaptability",
-    "prolific breeders with rapid reproduction rates",
-    "capable climbers and swimmers",
-    "regarded as pests in some settings due to their destructive behavior"
+  "geolocation": ["North America"],
+  "measurement": ["length: up to 2-3 ft", "weight: up to 10-30 lbs"],
+  "communication": ["chattering sounds", "body language"],
+  "other": [
+    "excellent swimmers and divers",
+    "playful behavior and social groups",
+    "importance in freshwater ecosystems",
+    "conservation efforts for habitat preservation and reintroduction"
   ]
 }

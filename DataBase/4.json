@@ -1,23 +1,23 @@
 {
-  "title": "Lion",
-  "color": ["golden", "brown"],
-  "feature": ["mane", "powerful build", "carnivorous"],
-  "geolocation": ["Africa", "Asia"],
-  "use": ["top predator", "ecosystem balance"],
-  "measurement": ["length: 6-8 ft", "height: 3.5-4 ft", "weight: 265-420 lb"],
-  "origin": ["Africa", "Asia"],
-  "special_behavior": ["social", "roaring communication"],
-  "speed": ["up to 50 mph"],
-  "age": ["lifespan of 10-14 years in the wild"],
+  "title": "Asian elephant",
+  "visual": ["large size", "proboscis", "large ears"],
+  "about": [
+    "one of the largest land mammals",
+    "found in forests and grasslands",
+    "herbivorous diet",
+    "lifespan: up to 60-70 years"
+  ],
+  "geolocation": ["Asia", "forests", "grasslands"],
+  "measurement": [
+    "height: up to 8-10 ft",
+    "weight: up to 4,000-12,000 kg",
+    "length: up to 16-21 ft"
+  ],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["savannahs", "grasslands"],
-  "diet": ["carnivorous", "prey on herbivores"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "known as the king of the jungle",
-    "live in prides with a dominant male",
-    "females are the primary hunters",
-    "play a crucial role in maintaining ecosystem balance"
+  "other": [
+    "highly social and intelligent",
+    "distinctive trunk and tusks",
+    "cultural significance and conservation efforts",
+    "threats from habitat loss and poaching"
   ]
 }

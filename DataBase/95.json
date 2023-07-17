@@ -1,23 +1,18 @@
 {
-  "title": "Gazelle",
-  "color": ["various colors"],
-  "feature": ["antelopes", "slender bodies", "graceful movements"],
-  "geolocation": ["Africa", "Asia"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Africa", "Asia"],
-  "special_behavior": ["herbivorous", "swift runners", "pronking behavior"],
-  "speed": ["fast runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "grasslands", "savannas"],
-  "diet": ["herbivorous", "grasses", "leaves", "shoots"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "antelopes known for their slender bodies and graceful movements",
-    "adapted for speed and agility to escape from predators",
-    "perform a behavior called pronking, characterized by leaping and bouncing",
-    "found in a range of habitats, including grasslands and savannas"
+  "title": "Large flying fox",
+  "visual": ["large size", "black fur", "wingspan"],
+  "about": [
+    "fruit bat species found in Southeast Asia",
+    "fruit and nectar diet",
+    "lifespan: up to 15-20 years in the wild"
+  ],
+  "geolocation": ["Southeast Asia"],
+  "measurement": ["wingspan: up to 4-5 ft", "weight: up to 2-3 lbs"],
+  "communication": ["vocalizations and scent marking"],
+  "other": [
+    "nocturnal and arboreal behavior",
+    "important pollinators and seed dispersers",
+    "large colonies and social structure",
+    "conservation concerns related to habitat loss and hunting"
   ]
 }

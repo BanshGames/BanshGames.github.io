@@ -1,23 +1,19 @@
 {
-  "title": "Macaw",
-  "color": ["various colors"],
-  "feature": ["birds", "brightly colored feathers", "strong beaks"],
-  "geolocation": ["Central and South America"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Central and South America"],
-  "special_behavior": ["arboreal", "social animals", "vocalizations"],
-  "speed": ["relatively slow flyers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "rainforests", "savannas"],
-  "diet": ["omnivorous", "fruits", "seeds", "nuts"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "birds known for their brightly colored feathers and strong beaks",
-    "highly social animals that often gather in large flocks",
-    "exhibit complex vocalizations and are capable of mimicking human speech",
-    "inhabit various habitats in Central and South America, including rainforests and savannas"
+  "title": "Abalone",
+  "visual": ["medium size", "ear-shaped shell", "iridescent colors"],
+  "about": [
+    "marine snail species in the genus Haliotis",
+    "found in coastal waters",
+    "herbivorous diet",
+    "lifespan: varies depending on species"
+  ],
+  "geolocation": ["Coastal waters"],
+  "measurement": ["shell length: up to 4-6 inches"],
+  "communication": ["no specific communication"],
+  "other": [
+    "important seafood delicacy",
+    "adhesive properties of their foot",
+    "role in coastal ecosystems",
+    "conservation concerns related to overharvesting and habitat destruction"
   ]
 }

@@ -1,27 +1,18 @@
 {
-  "title": "Chameleon",
-  "color": ["various colors"],
-  "feature": ["reptiles", "color-changing ability", "prehensile tail"],
-  "geolocation": ["Africa", "Madagascar", "Asia"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Africa", "Madagascar", "Asia"],
-  "special_behavior": [
-    "arboreal",
-    "independent eye movement",
-    "tongue projection"
+  "title": "Polar bear",
+  "visual": ["large size", "white fur", "thick layer of blubber"],
+  "about": [
+    "bear species native to the Arctic",
+    "carnivorous diet",
+    "lifespan: up to 25-30 years in the wild"
   ],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["visual displays", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "forests", "grasslands"],
-  "diet": ["insectivorous", "small invertebrates"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "reptiles known for their remarkable color-changing ability",
-    "adapted for life in trees and possess a prehensile tail for climbing",
-    "able to move their eyes independently, providing a wide field of vision",
-    "found in various habitats across Africa, Madagascar, and Asia"
+  "geolocation": ["Arctic region"],
+  "measurement": ["length: up to 7-9 ft", "weight: up to 900-1,600 lbs"],
+  "communication": ["roaring and growling sounds", "body language"],
+  "other": [
+    "adapted to the Arctic environment",
+    "excellent swimmers and hunters",
+    "dependence on sea ice for hunting seals",
+    "conservation concerns related to climate change and habitat loss"
   ]
 }

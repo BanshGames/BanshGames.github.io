@@ -1,27 +1,23 @@
 {
-  "title": "Dolphin",
-  "color": ["various colors"],
-  "feature": ["sleek body", "blowhole", "fin"],
-  "geolocation": ["oceans", "seas"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["length: varies depending on species"],
-  "origin": ["oceans", "seas"],
-  "special_behavior": [
-    "highly intelligent",
-    "social",
-    "communicate with clicks and whistles"
+  "title": "Humpback whale",
+  "visual": ["large size", "long pectoral fins", "distinctive knobby head"],
+  "about": [
+    "large baleen whale known for its songs",
+    "found in oceans and seas",
+    "carnivorous diet (krill, small fish)",
+    "lifespan: up to 45-50 years in the wild"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["oceans", "seas"],
-  "diet": ["carnivorous", "fish", "squid"],
-  "predators": ["sharks", "killer whales"],
-  "facts": [
-    "known for their agility and acrobatic behaviors",
-    "form complex social structures and communicate effectively",
-    "have excellent echolocation abilities",
-    "highly sensitive to their environment"
+  "geolocation": ["global", "oceans", "seas"],
+  "measurement": [
+    "height: up to 12-16 ft",
+    "weight: up to 25-40 tons",
+    "length: up to 40-60 ft"
+  ],
+  "communication": ["singing", "body language"],
+  "other": [
+    "impressive acrobatic behavior and breaching",
+    "long-distance migrations",
+    "importance in marine ecosystems as a krill predator",
+    "conservation concerns due to whaling and entanglement"
   ]
 }

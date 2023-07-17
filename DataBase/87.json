@@ -1,23 +1,19 @@
 {
-  "title": "Crab",
-  "color": ["various colors"],
-  "feature": ["crustaceans", "hard exoskeleton", "clawed legs"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["food"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["aquatic", "bottom-dwelling", "sideways movement"],
-  "speed": ["relatively fast walkers", "good swimmers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["chemical signals", "visual displays"],
-  "conservation_status": ["not evaluated"],
-  "habitat": ["aquatic habitats", "oceans", "freshwater"],
-  "diet": ["omnivorous", "small organisms", "algae", "detritus"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "aquatic crustaceans known for their hard exoskeleton and clawed legs",
-    "found in various marine and freshwater habitats worldwide",
-    "display unique sideways movement due to the structure of their legs",
-    "important in marine food chains and coastal ecosystems"
+  "title": "Gazelle",
+  "visual": ["medium size", "slender build", "curved horns"],
+  "about": [
+    "antelope species in the genus Gazella",
+    "found in Africa and Asia",
+    "herbivorous diet",
+    "lifespan: up to 10-12 years in the wild"
+  ],
+  "geolocation": ["Africa", "Asia"],
+  "measurement": ["height: up to 2-3 ft", "weight: up to 60-100 lbs"],
+  "communication": ["barking sounds", "body language"],
+  "other": [
+    "adapted to arid and open habitats",
+    "fast runners and agile jumpers",
+    "migratory behavior in some species",
+    "conservation concerns related to habitat loss and hunting"
   ]
 }

@@ -1,27 +1,23 @@
 {
-  "title": "Shark",
-  "color": ["various colors"],
-  "feature": ["sleek body", "cartilaginous skeleton", "sharp teeth"],
-  "geolocation": ["oceans", "seas"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["oceans", "seas"],
-  "special_behavior": [
-    "apex predators",
-    "powerful swimmers",
-    "electroreception"
+  "title": "Common octopus",
+  "visual": ["medium size", "soft body", "eight arms with suction cups"],
+  "about": [
+    "highly intelligent and adaptable cephalopod",
+    "found in oceans and seas",
+    "carnivorous diet",
+    "lifespan: up to 1-2 years in the wild"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["body language", "chemical signals"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["oceans", "seas"],
-  "diet": ["carnivorous", "fish", "seals", "marine mammals"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "one of the oldest and most successful predators on Earth",
-    "diverse species with different sizes and behaviors",
-    "play a crucial role in maintaining balance in marine ecosystems",
-    "continuously replace their teeth throughout their lifetime"
+  "geolocation": ["global", "oceans", "seas"],
+  "measurement": [
+    "height: up to 1-2 ft",
+    "weight: up to 5-10 lbs",
+    "length: up to 3-4 ft"
+  ],
+  "communication": ["camouflage", "body language"],
+  "other": [
+    "remarkable camouflage and problem-solving abilities",
+    "versatile feeding and hunting techniques",
+    "short lifespan and unique reproductive strategies",
+    "conservation concerns due to overfishing and habitat degradation"
   ]
 }

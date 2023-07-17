@@ -1,27 +1,19 @@
 {
-  "title": "Eagle",
-  "color": ["various colors"],
-  "feature": ["large size", "sharp beak", "powerful talons"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance", "symbolic significance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "strong and agile flyers",
-    "excellent vision",
-    "territorial"
+  "title": "Indian peafowl",
+  "visual": ["large size", "colorful feathers", "elongated tail"],
+  "about": [
+    "bird species known for its extravagant plumage",
+    "found in the Indian subcontinent",
+    "omnivorous diet",
+    "lifespan: up to 15-20 years in the wild"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
+  "geolocation": ["Indian subcontinent"],
+  "measurement": ["length: up to 5-6 ft", "weight: up to 8-13 lbs"],
   "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "mountains", "forests"],
-  "diet": ["carnivorous", "small mammals", "birds", "reptiles"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "majestic birds of prey known for their keen eyesight",
-    "impressive hunters and skilled aerial acrobats",
-    "symbolize strength, freedom, and power in many cultures",
-    "some species build massive nests in high tree canopies"
+  "other": [
+    "elaborate courtship displays by males",
+    "hierarchy and social behavior",
+    "cultural significance and symbolism",
+    "conservation concerns related to habitat loss and hunting"
   ]
 }

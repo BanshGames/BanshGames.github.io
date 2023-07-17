@@ -1,23 +1,18 @@
 {
-  "title": "Armadillo",
-  "color": ["gray", "brown"],
-  "feature": ["mammals", "hard shell", "digging claws"],
-  "geolocation": ["North America", "Central America", "South America"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["North America", "Central America", "South America"],
-  "special_behavior": ["nocturnal", "burrowers", "grunting vocalizations"],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["various habitats", "forests", "grasslands"],
-  "diet": ["omnivorous", "insects", "small vertebrates", "plants"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "mammals known for their hard shell-like armor and digging claws",
-    "nocturnal creatures that dig burrows for shelter and protection",
-    "omnivorous animals with a varied diet including insects and plant matter",
-    "found in various habitats across North America, Central America, and South America"
+  "title": "House sparrow",
+  "visual": ["small size", "brown and gray plumage", "conical beak"],
+  "about": [
+    "bird species found worldwide",
+    "omnivorous diet",
+    "lifespan: up to 4-5 years in the wild"
+  ],
+  "geolocation": ["Global"],
+  "measurement": ["length: up to 6-7 inches", "weight: up to 1-2 oz"],
+  "communication": ["chirping and twittering sounds", "body language"],
+  "other": [
+    "highly adaptable to urban and rural environments",
+    "social behavior and communal roosting",
+    "nesting in man-made structures",
+    "conservation concerns related to habitat loss and competition"
   ]
 }

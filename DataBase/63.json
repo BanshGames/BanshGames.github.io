@@ -1,27 +1,19 @@
 {
-  "title": "Sloth",
-  "color": ["various colors"],
-  "feature": ["slow-moving", "claws", "arboreal"],
-  "geolocation": ["Central and South America"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Central and South America"],
-  "special_behavior": [
-    "slow metabolism",
-    "hanging from trees",
-    "low-energy lifestyle"
+  "title": "Dromedary camel",
+  "visual": ["large size", "humped back", "long legs"],
+  "about": [
+    "domesticated camel species",
+    "native to the Arabian Peninsula",
+    "herbivorous diet",
+    "lifespan: up to 40-50 years in captivity"
   ],
-  "speed": ["very slow movers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["tropical rainforests", "canopy trees"],
-  "diet": ["herbivorous", "leaves", "twigs", "fruit"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "arboreal mammals known for their slow movements",
-    "adapted for a low-energy lifestyle with a slow metabolism",
-    "spend most of their time hanging upside down from trees",
-    "play important roles in rainforest ecosystems and nutrient cycling"
+  "geolocation": ["Arabian Peninsula"],
+  "measurement": ["height: up to 6-7 ft", "weight: up to 900-1,500 lbs"],
+  "communication": ["grunting sounds", "body language"],
+  "other": [
+    "adaptations for desert environments",
+    "important livestock and transportation animal",
+    "ability to go long periods without water",
+    "conservation concerns related to feral populations"
   ]
 }

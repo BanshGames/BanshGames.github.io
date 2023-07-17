@@ -1,23 +1,18 @@
 {
-  "title": "Scorpion",
-  "color": ["various colors"],
-  "feature": ["arthropods", "stinger on tail", "claw-like pedipalps"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["predatory", "venomous stings", "glow under UV light"],
-  "speed": ["relatively slow"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vibrations", "chemical signals"],
-  "conservation_status": ["least concern"],
-  "habitat": ["various habitats", "deserts", "forests"],
-  "diet": ["carnivorous", "insects", "small vertebrates"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "arthropods characterized by their stinger on the tail and claw-like pedipalps",
-    "predatory creatures that use venomous stings to immobilize their prey",
-    "can be found in a range of habitats worldwide, including deserts and forests",
-    "glow under UV light, a fascinating characteristic known as fluorescence"
+  "title": "Blue mussel",
+  "visual": ["small to medium size", "elongated shell", "blue-black color"],
+  "about": [
+    "mollusk species found in coastal areas",
+    "filter-feeding diet",
+    "lifespan: up to 10-15 years in the wild"
+  ],
+  "geolocation": ["Coastal areas"],
+  "measurement": ["shell length: up to 2-3 inches"],
+  "communication": ["chemical signals and filtering behavior"],
+  "other": [
+    "forming dense colonies in intertidal zones",
+    "commercially important seafood species",
+    "tolerance to environmental variations",
+    "conservation concerns related to habitat loss and pollution"
   ]
 }

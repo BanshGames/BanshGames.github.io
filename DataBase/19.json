@@ -1,23 +1,23 @@
 {
-  "title": "Panda",
-  "color": ["black", "white"],
-  "feature": ["large size", "distinctive black and white coat"],
-  "geolocation": ["China"],
-  "use": ["ecosystem balance", "conservation"],
-  "measurement": ["length: 4-6 ft", "height: 2-3 ft", "weight: 220-330 lb"],
-  "origin": ["China"],
-  "special_behavior": ["bamboo specialists", "solitary"],
-  "speed": ["slow-moving"],
-  "age": ["lifespan of 20 years in the wild"],
-  "communication": ["vocalizations", "scent marking"],
-  "conservation_status": ["endangered"],
-  "habitat": ["bamboo forests"],
-  "diet": ["bamboo shoots", "leaves", "occasional meat"],
-  "predators": ["few natural predators"],
-  "facts": [
-    "symbol of conservation efforts worldwide",
-    "primarily feed on bamboo, with specialized adaptations",
-    "low reproductive rate and highly endangered",
-    "conservation programs have helped increase their population"
+  "title": "Common dolphin",
+  "visual": ["medium size", "sleek body", "distinctive coloration"],
+  "about": [
+    "highly social marine mammal",
+    "found in oceans and seas",
+    "carnivorous diet",
+    "lifespan: up to 20-30 years in the wild"
+  ],
+  "geolocation": ["global", "oceans", "seas"],
+  "measurement": [
+    "height: up to 3-4 ft",
+    "weight: up to 200-300 lbs",
+    "length: up to 6-8 ft"
+  ],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "acrobatic swimming and jumping behavior",
+    "strong social bonds and group dynamics",
+    "importance in marine ecosystems as predators",
+    "conservation concerns due to bycatch and pollution"
   ]
 }

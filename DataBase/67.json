@@ -1,23 +1,18 @@
 {
-  "title": "Emu",
-  "color": ["brown", "gray"],
-  "feature": ["flightless birds", "long neck", "powerful legs"],
-  "geolocation": ["Australia"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["Australia"],
-  "special_behavior": ["fast runners", "large eggs", "booming vocalizations"],
-  "speed": ["fast runners"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["least concern"],
-  "habitat": ["various habitats", "forests", "grasslands"],
-  "diet": ["omnivorous", "plants", "insects", "small vertebrates"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "flightless birds native to Australia",
-    "known for their fast running speeds and powerful legs",
-    "lay large eggs that are incubated by the male",
-    "play important roles in the ecosystems of their habitats"
+  "title": "Black rhinoceros",
+  "visual": ["large size", "two horns", "thick skin"],
+  "about": [
+    "rhinoceros species native to Africa",
+    "herbivorous diet",
+    "lifespan: up to 30-35 years in the wild"
+  ],
+  "geolocation": ["Africa"],
+  "measurement": ["height: up to 4-6 ft", "weight: up to 2,000-3,000 lbs"],
+  "communication": ["grunting sounds", "body language"],
+  "other": [
+    "territorial and solitary behavior",
+    "browsers of woody vegetation",
+    "conservation concerns related to poaching and habitat loss",
+    "efforts to protect and increase population numbers"
   ]
 }

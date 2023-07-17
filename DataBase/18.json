@@ -1,23 +1,22 @@
 {
-  "title": "Koala",
-  "color": ["gray", "brown"],
-  "feature": ["small to medium size", "fluffy ears", "claws"],
-  "geolocation": ["Australia"],
-  "use": ["ecosystem balance", "tourism"],
-  "measurement": ["length: 2-3 ft", "weight: 9-19 lb"],
-  "origin": ["Australia"],
-  "special_behavior": ["arboreal", "herbivorous", "sleeps most of the day"],
-  "speed": ["slow-moving"],
-  "age": ["lifespan of 13-18 years in the wild"],
-  "communication": ["vocalizations", "scent marking"],
-  "conservation_status": ["vulnerable"],
-  "habitat": ["eucalyptus forests"],
-  "diet": ["herbivorous", "eucalyptus leaves"],
-  "predators": ["dingoes", "large birds of prey"],
-  "facts": [
-    "marsupials specialized for eucalyptus diet",
-    "spend most of their time sleeping and resting",
-    "excellent climbers with strong grasping ability",
-    "declining population due to habitat loss and disease"
+  "title": "African penguin",
+  "visual": ["small size", "black and white feathers", "distinctive beak"],
+  "about": [
+    "medium-sized penguin species",
+    "found in coastal areas",
+    "carnivorous diet",
+    "lifespan: up to 10-15 years in the wild"
+  ],
+  "geolocation": ["South Africa", "Namibia", "coastal areas"],
+  "measurement": [
+    "height: up to 1-2 ft",
+    "weight: up to 5-10 lbs",
+    "length: up to 1-2 ft"
+  ],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "unique adaptations for swimming and diving",
+    "colonial nesting behavior",
+    "threats from habitat loss and fishing activities"
   ]
 }

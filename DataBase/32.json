@@ -1,23 +1,19 @@
 {
-  "title": "Snake",
-  "color": ["various colors"],
-  "feature": ["elongated body", "no legs", "slithering movement"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["cold-blooded", "predatory", "venomous (some species)"],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["limited communication abilities"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "forests", "deserts"],
-  "diet": ["carnivorous", "small mammals", "birds", "reptiles"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "limbless reptiles with unique adaptations for movement",
-    "play important roles in controlling rodent populations",
-    "some species possess venom for prey capture",
-    "wide variety of species with diverse habitats and behaviors"
+  "title": "Bird",
+  "visual": ["various sizes", "feathered body", "beak"],
+  "about": [
+    "warm-blooded vertebrates with feathers",
+    "found in diverse habitats worldwide",
+    "omnivorous or carnivorous diet",
+    "lifespan: varies depending on species"
+  ],
+  "geolocation": ["global", "various habitats"],
+  "measurement": ["size: varies depending on species"],
+  "communication": ["vocalizations", "body language"],
+  "other": [
+    "remarkable adaptations for flight",
+    "diverse species and ecological roles",
+    "elaborate courtship displays and nest building",
+    "conservation concerns related to habitat loss and climate change"
   ]
 }

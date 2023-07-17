@@ -1,27 +1,19 @@
 {
-  "title": "Pigeon",
-  "color": ["various colors"],
-  "feature": ["medium-sized", "rounded body", "adaptability"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["communication", "messenger pigeons"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": [
-    "highly adaptable",
-    "homing instinct",
-    "cooing vocalizations"
+  "title": "Mallard duck",
+  "visual": ["medium size", "colorful plumage", "distinctive green head"],
+  "about": [
+    "duck species found in various habitats",
+    "native to North America, Europe, and Asia",
+    "omnivorous diet",
+    "lifespan: up to 5-10 years in the wild"
   ],
-  "speed": ["varies depending on species"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["varies depending on species", "urban areas", "cliffs"],
-  "diet": ["omnivorous", "seeds", "grains", "insects"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "found in urban areas and natural habitats worldwide",
-    "known for their homing abilities and use in messaging",
-    "have been domesticated for thousands of years",
-    "play a role in seed dispersal and scavenging"
+  "geolocation": ["North America", "Europe", "Asia"],
+  "measurement": ["length: up to 20-28 inches", "wingspan: up to 32-39 inches"],
+  "communication": ["quacking sounds", "body language"],
+  "other": [
+    "wide distribution and adaptability to different environments",
+    "seasonal migrations and breeding behavior",
+    "importance as a game species and waterfowl",
+    "conservation concerns related to habitat loss and hunting"
   ]
 }

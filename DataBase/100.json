@@ -1,23 +1,19 @@
 {
-  "title": "Pelican",
-  "color": ["various colors"],
-  "feature": ["birds", "long beak", "large throat pouch"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["ecosystem balance"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["aquatic", "diving", "group fishing"],
-  "speed": ["relatively slow flyers"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["vocalizations", "body language"],
-  "conservation_status": ["varies depending on species"],
-  "habitat": ["aquatic habitats", "coastal areas", "lakes"],
-  "diet": ["carnivorous", "fish", "crustaceans"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "birds with long beaks and large throat pouches for catching and storing prey",
-    "known for their exceptional diving abilities to catch fish",
-    "often seen in groups engaging in cooperative fishing techniques",
-    "inhabit diverse aquatic habitats worldwide, including coastal areas and lakes"
+  "title": "Bumblebee",
+  "visual": ["medium to large size", "fuzzy body", "distinctive coloration"],
+  "about": [
+    "bee species in the genus Bombus",
+    "found in various habitats",
+    "nectar and pollen diet",
+    "lifespan: up to 2-6 weeks in the wild"
+  ],
+  "geolocation": ["Various habitats"],
+  "measurement": ["length: up to 0.5-1 inch", "weight: up to 0.1-0.2 oz"],
+  "communication": ["vibrations and buzzing sounds"],
+  "other": [
+    "important pollinators for flowering plants",
+    "social behavior and colony structure",
+    "ability to regulate body temperature",
+    "conservation concerns related to habitat loss and pesticide use"
   ]
 }

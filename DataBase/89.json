@@ -1,23 +1,18 @@
 {
-  "title": "Mussel",
-  "color": ["various colors"],
-  "feature": ["bivalve mollusks", "elongated shells", "byssal threads"],
-  "geolocation": ["various regions worldwide"],
-  "use": ["food"],
-  "measurement": ["size varies depending on species"],
-  "origin": ["various regions worldwide"],
-  "special_behavior": ["aquatic", "sessile", "filter feeding"],
-  "speed": ["immobile"],
-  "age": ["lifespan varies depending on species"],
-  "communication": ["chemical signals"],
-  "conservation_status": ["not evaluated"],
-  "habitat": ["aquatic habitats", "oceans", "freshwater"],
-  "diet": ["filter feeders", "plankton", "organic particles"],
-  "predators": ["varies depending on species"],
-  "facts": [
-    "bivalve mollusks with elongated shells and the ability to form byssal threads",
-    "found in various marine and freshwater habitats worldwide",
-    "filter feeders that help improve water quality and maintain ecosystem balance",
-    "cultivated for their culinary value in many cuisines"
+  "title": "Wild turkey",
+  "visual": ["large size", "feathered body", "long tail"],
+  "about": [
+    "bird species native to North America",
+    "omnivorous diet",
+    "lifespan: up to 3-5 years in the wild"
+  ],
+  "geolocation": ["North America"],
+  "measurement": ["length: up to 3-4 ft", "weight: up to 10-20 lbs"],
+  "communication": ["gobbling sounds", "body language"],
+  "other": [
+    "highly social and gregarious behavior",
+    "courtship displays and mating rituals",
+    "importance in North American cultural traditions",
+    "conservation efforts to restore wild populations"
   ]
 }
